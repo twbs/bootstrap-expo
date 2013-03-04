@@ -20,7 +20,7 @@ Beyond the official gallery, there are a handful of services documenting example
 
 #### Bootstrap communiqué
 * **[Official Bootstrap blog](http://blog.getbootstrap.com)** - Get the latest on Bootstrap's development.
-* **[@twbootstrap on Twitter](http://twitter.com/twbootstrap) - Follow the official project Twitter account.
+* **[@twbootstrap on Twitter](http://twitter.com/twbootstrap)** - Follow the official project Twitter account.
 * **[Official mailing list](http://groups.google.com/group/twitter-bootstrap)** - For community questions about using Bootstrap.
 
 #### Community showcases
