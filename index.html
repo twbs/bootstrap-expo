@@ -1,0 +1,12 @@
+---
+layout: default
+title: "Bootstrap Gallery"
+---
+
+<div class="row bsg-listing">
+{% for post in paginator.posts %}
+  <div class="span4">
+    {{ post.content }}
+  </div>
+{% endfor %}
+</div>

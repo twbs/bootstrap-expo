@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+
+    <div class="bsg-masthead">
+      <div class="bsg-container">
+        <a href="http://getbootstrap.com" class="bsg-bootstrap">Get Bootstrap &raquo;</a>
+        <h1>
+          <a href="/">Bootstrap Expo</a>
+          <small>Beautiful and inspiring uses of Bootstrap</small>
+        </h1>
+      </div>
+    </div>
+
+    <div class="bsg-content">
+      <div class="bsg-container">
+        {{ content }}
+      </div>
+    </div>
+
+    <div class="bsg-pagination">
+      {% if paginator.next_page %}
+        <a href="/page{{paginator.next_page}}" class="paginate older">Older</a>
+      {% else %}
+        <span class="paginate next">Older</span>
+      {% endif %}
+      {% if paginator.previous_page %}
+        <a href="/page{{paginator.previous_page}}" class="paginate newer">Newer</a>
+      {% else %}
+        <span class="paginate previous">Newer</span>
+      {% endif %}
+    </div>
+
+  </body>
+</html>

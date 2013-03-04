@@ -1,0 +1,8 @@
+# Dependencies
+markdown:     rdiscount
+pygments:     true
+
+# Settings
+destination:  ./_gh_pages
+url:          expo.getbootstrap.com
+paginate:     9
