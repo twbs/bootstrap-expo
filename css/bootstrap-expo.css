@@ -45,7 +45,6 @@ body {
   height: 28px;
 }
 
-
 .bsg-listing .thumbnail {
   margin-bottom: 30px;
   background-color: #fff;
@@ -84,10 +83,12 @@ body {
   font-size: 14px;
   line-height: 30px;
 }
+.bsg-contribute .github-btn {
+  float: right;
+}
 
-
+/* 50/50 pagination links */
 @media (min-width: 481px) {
-  /* 50/50 pagination links */
   .bsg-pagination {
     overflow: hidden; /* Clearfix */
   }
@@ -103,4 +104,3 @@ body {
     border-left-color: #fff;
   }
 }
-
