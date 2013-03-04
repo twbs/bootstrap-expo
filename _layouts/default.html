@@ -23,6 +23,7 @@
     </div>
 
     <div class="bsg-pagination">
+      <div class="bsg-container">
       {% if paginator.next_page %}
         <a href="/page{{paginator.next_page}}" class="paginate older">Older</a>
       {% else %}
@@ -33,6 +34,14 @@
       {% else %}
         <span class="paginate previous">Newer</span>
       {% endif %}
+      </div>
+    </div>
+
+    <div class="bsg-contribute">
+      <div class="bsg-container">
+        <iframe class="github-btn" src="http://ghbtns.com/github-btn.html?user=twitter&repo=bootstrap&type=watch&count=false&size=large" allowtransparency="true" frameborder="0" scrolling="0" width="80px" height="30px"></iframe>
+        <p>Have a site to share? <a href="https://github.com/twbs/bootstrap-expo/issues/new" target="_blank">Open an issue on GitHub</a> and we'll review it.</p>
+      </div>
     </div>
 
     <!-- Analytics -->
