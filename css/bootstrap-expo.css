@@ -32,8 +32,8 @@ body {
 }
 .bsg-masthead h1 {
   margin: 0;
-  font-size: 18px;
-  line-height: 1;
+  font-size: 24px;
+  line-height: 28px;
 }
 .bsg-masthead a:hover {
   text-decoration: none;
@@ -41,12 +41,11 @@ body {
 .bsg-masthead .tagline {
   font-size: 14px;
   font-weight: 500;
+  line-height: 1;
   color: #999;
 }
 .bsg-masthead .tweet-btn {
   float: right;
-  margin-left: 10px;
-  margin-bottom: 10px;
 }
 
 
