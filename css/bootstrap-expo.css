@@ -83,7 +83,7 @@ body {
 }
 
 .bsg-contribute {
-  padding: 20px;
+  padding: 20px 0;
   color: #999;
   border-bottom: 1px solid #e5e5e5;
 }
@@ -91,7 +91,9 @@ body {
   margin-bottom: 0;
   line-height: 30px;
 }
-.bsg-contribute .github-btn {
-  float: right;
+@media (min-width: 360px) {
+  .bsg-contribute .github-btn {
+    float: right;
+  }
 }
 
