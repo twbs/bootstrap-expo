@@ -8,7 +8,7 @@ Browse the entries at [http://expo.getbootstrap.com](http://expo.getbootstrap.co
 
 ## Submissions
 
-The Bootstrap Expo will not feature very site or application that uses Bootstrap. Instead, we'll handpick only the most stunning and creative examples of building on top of the framework. Sites appearing too similar to Bootstrap's docs or default styles generally won't be accepted.
+The Bootstrap Expo will not feature every site or application that uses Bootstrap. Instead, we'll handpick only the most stunning and creative examples of building on top of the framework. Sites appearing too similar to Bootstrap's docs or default styles generally won't be accepted.
 
 To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/new) or [a pull request](https://github.com/twbs/bootstrap-expo/pulls/new). (Any new pull request should conform to the [Code Guide](http://github.com/mdo/code-guide)).
 
