@@ -26,6 +26,7 @@ Thumbs.db
 nbproject
 *.sublime-project
 *.sublime-workspace
+.ruby-version
 
 # Komodo
 *.komodoproject
