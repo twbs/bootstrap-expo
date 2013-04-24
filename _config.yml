@@ -5,7 +5,7 @@ pygments:     true
 # Settings
 destination:  ./_gh_pages
 url:          expo.getbootstrap.com
-paginate:     11
+paginate:     12
 name:         Bootstrap Expo
 description:  Beautiful and inspiring uses of Bootstrap
 url:          http://expo.getbootstrap.com
