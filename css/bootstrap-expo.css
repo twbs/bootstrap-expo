@@ -51,14 +51,29 @@ body {
 
 /* Ads in the listing */
 .carbonad {
-  width: 100%;
-  background-color: #fff;
-  background-image: none;
-  border-color: #ddd;
+  width: 100% !important;
+  margin-bottom: 30px;
+  font-family: inherit !important;
+  font-size: 12px !important;
+  line-height: 16px !important;
+  background: #fff !important; /* reset image and color in one line */
+  border-color: #ddd !important;
   border-radius: 4px;
 }
+.carbonad-image {
+  margin: 10px !important;
+}
+.carbonad-text {
+  float: none !important;
+  display: block !important;
+  width: auto !important;
+  margin-right: 10px;
+}
 .carbonad-tag {
-  text-align: left;
+  float: none !important;
+  display: block !important;
+  width: auto !important;
+  text-align: left !important;
 }
 
 .bsg-pagination {
