@@ -49,6 +49,18 @@ body {
   background-color: #fff;
 }
 
+/* Ads in the listing */
+.carbonad {
+  width: 100%;
+  background-color: #fff;
+  background-image: none;
+  border-color: #ddd;
+  border-radius: 4px;
+}
+.carbonad-tag {
+  text-align: left;
+}
+
 .bsg-pagination {
   font-weight: 500;
   color: #999;
@@ -120,6 +132,14 @@ body {
   .bsg-pagination .paginate:last-child {
     border-top: 0;
     border-left-color: #fff;
+  }
+
+}
+
+@media (min-width: 768px) {
+
+  .bsg-listing .carbon-ads {
+
   }
 
 }
