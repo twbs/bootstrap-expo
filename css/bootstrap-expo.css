@@ -44,6 +44,10 @@ body {
   margin: 10px auto 0;
 }
 
+.bsg-listing {
+  margin-left: -15px;
+  margin-right: -15px;
+}
 .bsg-listing .thumbnail {
   margin-bottom: 30px;
   background-color: #fff;
