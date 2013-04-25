@@ -52,6 +52,7 @@ body {
 /* Ads in the listing */
 .carbonad {
   width: 100% !important;
+  height: auto !important;
   margin-bottom: 30px;
   font-family: inherit !important;
   font-size: 12px !important;
@@ -67,12 +68,16 @@ body {
   float: none !important;
   display: block !important;
   width: auto !important;
+  max-width: 150px;
+  margin-left: 150px;
   margin-right: 10px;
+  padding-top: 0 !important;
 }
 .carbonad-tag {
   float: none !important;
   display: block !important;
   width: auto !important;
+  margin-left: 150px;
   text-align: left !important;
 }
 
@@ -113,6 +118,13 @@ body {
 
 
 @media (min-width: 481px) {
+
+  /* Tweak listings */
+  .bsg-listing .span4 {
+    max-width: 410px;
+    margin-left: auto;
+    margin-right: auto;
+  }
 
   /* Left align masthead text */
   .bsg-masthead {
