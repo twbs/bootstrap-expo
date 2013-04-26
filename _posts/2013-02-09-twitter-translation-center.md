@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Twitter Translation Center"
+link: "http://translate.twitter.com"
+slug: "twitter-translation-center"
 ---
-
-<a class="thumbnail" href="http://translate.twitter.com" target="_blank">
-  <img src="/screenshots/twitter-translation-center.jpg">
-</a>

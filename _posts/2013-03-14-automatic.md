@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Automatic"
+link: "http://automatic.com"
+slug: "automatic"
 ---
-
-<a class="thumbnail" href="http://automatic.com" target="_blank">
-  <img src="/screenshots/automatic.jpg">
-</a>

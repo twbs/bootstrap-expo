@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Easybring"
+link: "https://www.easybring.com/en"
+slug: "easybring"
 ---
-
-<a class="thumbnail" href="https://www.easybring.com/en" target="_blank">
-  <img src="/screenshots/easybring.jpg">
-</a>

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "SoundReady"
+link: "http://soundready.fm"
+slug: "soundready"
 ---
-
-<a class="thumbnail" href="http://soundready.fm" target="_blank">
-  <img src="/screenshots/soundready.jpg">
-</a>

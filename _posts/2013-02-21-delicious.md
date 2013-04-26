@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Delicious"
+link: "http://delicious.com"
+slug: "delicious"
 ---
-
-<a class="thumbnail" href="http://delicious.com" target="_blank">
-  <img src="/screenshots/delicious.jpg">
-</a>

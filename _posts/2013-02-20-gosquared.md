@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Go Squared"
+link: "https://gosquared.com"
+slug: "gosquared"
 ---
-
-<a class="thumbnail" href="https://gosquared.com" target="_blank">
-  <img src="/screenshots/gosquared.jpg">
-</a>

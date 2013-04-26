@@ -5,11 +5,17 @@ title: "Bootstrap Expo"
 
 <div class="row bsg-listing">
   <div class="col-span-4 carbon-ads">
-    <div id="carbonads-container"><div class="carbonad"><div id="azcarbon"></div><script type="text/javascript">var z = document.createElement("script"); z.type = "text/javascript"; z.async = true; z.src = "http://engine.carbonads.com/z/32292/azcarbon_2_1_0_HORIZ"; var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(z, s);</script></div></div>
+    {% include carbonads.html %}
   </div>
 {% for post in paginator.posts %}
   <div class="col-span-4">
-    {{ post.content }}
+    <a class="bse-thumb" href="{{ post.link }}" target="_blank">
+      <img class="bse-thumb-img" src="/screenshots/{{ post.slug }}.jpg">
+    </a>
+    <h4 class="bse-thumb-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h4>
+    <span class="bse-thumb-date">{{ post.date | date_to_string }}</span>
   </div>
 {% endfor %}
 </div>

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "Adopt-a-Hydrant"
+link: "http://adoptahydrant.com"
+slug: "adoptahydrant"
 ---
-
-<a class="thumbnail" href="http://adoptahydrant.com" target="_blank">
-  <img src="/screenshots/adoptahydrant.jpg">
-</a>

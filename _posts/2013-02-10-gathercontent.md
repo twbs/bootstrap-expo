@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "GatherContent"
+link: "http://gathercontent.com"
+slug: "gathercontent"
 ---
-
-<a class="thumbnail" href="http://gathercontent.com" target="_blank">
-  <img src="/screenshots/gathercontent.jpg">
-</a>
