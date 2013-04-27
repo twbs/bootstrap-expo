@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Breaking News"
-link: "http://breakingnews.com"
-slug: "breakingnews"
 ---
+
+<a class="thumbnail" href="http://breakingnews.com" target="_blank">
+  <img src="/screenshots/breakingnews.jpg">
+</a>
+

@@ -9,9 +9,10 @@ title: "Bootstrap Expo"
   </div>
 {% for post in paginator.posts %}
   <div class="col-span-4">
-    <a class="bse-thumb" href="{{ post.link }}" target="_blank">
+<!--     <a class="bse-thumb" href="{{ post.link }}" target="_blank">
       <img class="bse-thumb-img" src="/screenshots/{{ post.slug }}.jpg">
     </a>
+ -->    {{ post.content }}
     <h4 class="bse-thumb-title">
       <a href="{{ post.url }}">{{ post.title }}</a>
     </h4>

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Codecademy"
-link: "http://codecademy.com"
-slug: "codecademy"
 ---
+
+<a class="thumbnail" href="http://codecademy.com" target="_blank">
+  <img src="/screenshots/codecademy.jpg">
+</a>

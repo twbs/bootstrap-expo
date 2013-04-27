@@ -46,12 +46,14 @@ body {
 }
 
 
-.bse-thumb {
+.thumbnail {
   position: relative;
   display: block;
   overflow: hidden;
+  padding: 0;
+  border: 0;
 }
-.bse-thumb:after {
+.thumbnail::after {
   position: absolute;
   top: 0;
   right: 0;
@@ -61,12 +63,12 @@ body {
   content: "";
   border: 1px solid rgba(0,0,0,.25);
 }
-.bse-thumb:after,
-.bse-thumb-img {
+.thumbnail::after,
+.thumbnail img {
   display: block;
   border-radius: 4px;
 }
-.bse-thumb-img {
+.thumbnail img {
   box-shadow: 0 1px 3px rgba(0,0,0,.075);
 }
 .bse-thumb-title {

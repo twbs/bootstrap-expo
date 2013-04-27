@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Athey Creek"
-link: "http://atheycreek.com"
-slug: "athey-creek"
 ---
+
+<a class="thumbnail" href="http://atheycreek.com" target="_blank">
+  <img src="/screenshots/athey-creek.jpg">
+</a>

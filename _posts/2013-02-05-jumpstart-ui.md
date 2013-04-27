@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Jumpstart UI"
-link: "http://jumpstartui.com"
-slug: "jumpstart-ui"
 ---
+
+<a class="thumbnail" href="http://jumpstartui.com" target="_blank">
+  <img src="/screenshots/jumpstart-ui.jpg">
+</a>
