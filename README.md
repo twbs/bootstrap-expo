@@ -34,12 +34,17 @@ Have something to add? [Let us know](https://github.com/twbs/bootstrap-expo/issu
 
 
 
-## Authors
+## Maintainers
 
 **Mark Otto**
 
 + [http://twitter.com/mdo](http://twitter.com/mdo)
 + [http://github.com/mdo](http://github.com/mdo)
+
+**Nicole Bartelt**
+
++ [http://twitter.com/nicolebartelt](http://twitter.com/nicolebartelt)
++ [http://github.com/nicole](http://github.com/nicole)
 
 
 
