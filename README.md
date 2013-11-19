@@ -29,6 +29,7 @@ Beyond the official gallery, there are a handful of services documenting example
 
 #### Community resources
 * **[List of Bootstrap Resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)** - A compendium of resources, themes, customizers, plugins, and more.
+* **[Gallery of snippets and playground for Bootstrap](http://bootsnipp.com)** - Hundreds of community-contributed snippets for Bootstrap, button builder, form builder and collection of resources.
 
 Have something to add? [Let us know](https://github.com/twbs/bootstrap-expo/issues/new).
 
