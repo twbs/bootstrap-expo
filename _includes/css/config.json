@@ -1,0 +1,11 @@
+{
+  "vars": {},
+  "css": [
+    "print.less",
+    "type.less",
+    "grid.less",
+    "pagination.less",
+    "thumbnails.less"
+  ],
+  "js": []
+}
