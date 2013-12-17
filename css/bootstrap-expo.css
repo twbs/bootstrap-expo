@@ -1,3 +1,9 @@
+---
+layout: nil
+---
+
+{% include css/bootstrap.min.css %}
+
 body {
   font-size: 18px;
   line-height: 1.25;
