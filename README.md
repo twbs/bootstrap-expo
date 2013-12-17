@@ -38,13 +38,13 @@ Have something to add? [Let us know](https://github.com/twbs/bootstrap-expo/issu
 
 **Mark Otto**
 
-+ [http://twitter.com/mdo](http://twitter.com/mdo)
-+ [http://github.com/mdo](http://github.com/mdo)
++ [https://twitter.com/mdo](https://twitter.com/mdo)
++ [https://github.com/mdo](https://github.com/mdo)
 
 **Nicole Bartelt**
 
-+ [http://twitter.com/nicolebartelt](http://twitter.com/nicolebartelt)
-+ [http://github.com/nicole](http://github.com/nicole)
++ [https://twitter.com/nicolebartelt](https://twitter.com/nicolebartelt)
++ [https://github.com/nicole](https://github.com/nicole)
 
 
 
