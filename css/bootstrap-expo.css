@@ -41,7 +41,7 @@ body {
 .bsg-listing {
   margin: 40px -15px;
 }
-.bsg-listing .col-span-4 {
+.bsg-listing .col-sm-4 {
   margin-bottom: 30px;
 }
 
@@ -50,6 +50,7 @@ body {
   position: relative;
   display: block;
   overflow: hidden;
+  margin-bottom: 0;
   padding: 0;
   border: 0;
 }
@@ -82,6 +83,7 @@ body {
 
 
 .bse-show {
+  margin-bottom: 50px;
   margin-left: -15px;
   margin-right: -15px;
 }
@@ -177,14 +179,6 @@ body {
 
 
 @media (min-width: 481px) {
-
-  /* Tweak listings */
-  .bsg-listing .span4 {
-    max-width: 410px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
   /* Left align masthead text */
   .bsg-masthead {
     text-align: left;
