@@ -109,6 +109,9 @@ body {
   margin-top: 20px;
 }
 
+.github-btn {
+  border-width: 0;
+}
 
 /* Ads in the listing */
 .carbonad {
