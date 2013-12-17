@@ -1,10 +1,13 @@
 # Dependencies
 markdown:     rdiscount
+pygments:     false
+
+# Permalinks
 permalink:    pretty
-pygments:     true
 
 # Settings
 destination:  ./_gh_pages
+exclude:      ["README.md"]
 paginate:     8
 
 name:         Bootstrap Expo
