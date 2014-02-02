@@ -3,9 +3,6 @@ layout: default
 ---
 
 <div class="row bse-show">
-  <div class="col-sm-4 col-sm-push-8">
-    {% include carbonads.html %}
-  </div>
   <div class="col-sm-8 col-sm-pull-4">
     <h1 class="post-title">
       {{ page.title }}
@@ -17,7 +14,7 @@ layout: default
 
 <div class="related">
   <h3>More from the Expo</h3>
-  <div class="row bsg-listing">
+  <div class="row listing">
     {% for post in site.related_posts limit:3 %}
       <div class="col-sm-4">
         {{ post.content }}

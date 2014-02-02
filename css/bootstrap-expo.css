@@ -4,53 +4,155 @@ layout: nil
 
 {% include css/bootstrap.min.css %}
 
+
+/*
+ * Global resets
+ */
+
 body {
   font-size: 18px;
   line-height: 1.25;
 }
 
-.bsg-content {
-  padding: 30px 20px 0;
-}
-
-.bsg-container {
-  position: relative;
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.bsg-masthead {
-  text-align: center;
-  padding: 20px;
-  border-bottom: 1px solid #e5e5e5;
-}
-.bsg-masthead h1 {
-  margin: 0;
-  font-size: 24px;
-  line-height: 28px;
-}
-.bsg-masthead a:hover {
+a:hover {
   text-decoration: none;
 }
-.bsg-masthead .tagline {
-  font-size: 14px;
-  font-weight: 500;
+
+
+/*
+ * Masthead
+ */
+
+.masthead {
+  position: relative;
+  padding: 30px 15px;
+  background-color: #fafafa;
+}
+
+/* Masthead (headings and download button) */
+.masthead-title {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-weight: normal;
   line-height: 1;
+}
+.masthead a {
+  color: #563d7c;
+}
+.masthead-lead {
+  margin-bottom: 0;
+  font-size: 16px;
   color: #999;
 }
-.bsg-masthead .tweet-btn {
-  height: 28px;
-  margin: 10px auto 0;
+.masthead-lead a {
+  color: #666;
+}
+.masthead-lead a:hover {
+  color: #333;
 }
 
-.bsg-listing {
-  margin: 40px -15px;
-}
-.bsg-listing .col-sm-4 {
-  margin-bottom: 30px;
+@media (min-width: 768px) {
+  .masthead h1 {
+    /*font-size: 40px;*/
+  }
+  .masthead .lead {
+    /*font-size: 24px;*/
+  }
 }
 
+@media (min-width: 992px) {
+  .masthead .lead {
+    /*font-size: 30px;*/
+  }
+}
+
+
+/*
+ * Carbon ads
+ *
+ * Single display ad that shows on all pages (except homepage) in page headers.
+ * The hella `!important` is required for any pre-set property.
+ */
+
+.carbonad {
+  width: auto !important;
+  margin: 30px -30px -30px !important;
+  padding: 10px !important;
+  overflow: hidden; /* clearfix */
+  height: auto !important;
+  font-size: 13px !important;
+  line-height: 16px !important;
+  text-align: left;
+  background: transparent !important;
+  border: 0 !important;
+}
+.carbonad-img {
+  margin: 0 !important;
+}
+.carbonad-text,
+.carbonad-tag {
+  float: none !important;
+  display: block !important;
+  width: auto !important;
+  height: auto !important;
+  margin-left: 145px !important;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+}
+.carbonad-text {
+  padding-top: 0 !important;
+}
+.carbonad-tag {
+  color: inherit !important;
+  text-align: left !important;
+}
+.carbonad-text a,
+.carbonad-tag a {
+  color: #563d7c !important;
+}
+.carbonad #azcarbon > img {
+  display: none; /* hide what I assume are tracking images */
+}
+
+@media (min-width: 480px) {
+  .carbonad {
+    width: 340px !important;
+    margin: 20px auto !important;
+/*    border-radius: 4px;
+    border: 1px solid #ddd !important;
+*/  }
+}
+
+@media (min-width: 768px) {
+  .carbonad {
+    margin-left: 0 !important;
+    margin-right: 0 !important;
+  }
+}
+
+@media (min-width: 992px) {
+  .carbonad {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0 !important;
+  }
+}
+
+
+
+.listing {
+  /*margin: 40px -15px;*/
+}
+.listing .col-sm-4 {
+  /*margin-bottom: 30px;*/
+}
+
+
+/*
+ * Showcase entries
+ *
+ * Thumbnails for the grid of entries on the homepage and individual post pages.
+ */
 
 .thumbnail {
   position: relative;
@@ -59,7 +161,28 @@ body {
   margin-bottom: 0;
   padding: 0;
   border: 0;
+  /*width: 25%;*/
+  /*float: left;*/
+  border-radius: 0;
+  background-color: #000;
 }
+.thumbnail-content {
+  display: none;
+}
+.thumbnail:hover img {
+  opacity: .85;
+}
+
+.row {
+  margin-left:  -14px;
+  margin-right: -14px;
+}
+.col-sm-4 {
+  padding: 0;
+  border: 1px solid #fafafa;
+}
+
+/*
 .thumbnail::after {
   position: absolute;
   top: 0;
@@ -78,6 +201,7 @@ body {
 .thumbnail img {
   box-shadow: 0 1px 3px rgba(0,0,0,.075);
 }
+*/
 .bse-thumb-title {
   margin-top: 10px;
   margin-bottom: 0;
@@ -111,7 +235,7 @@ body {
   border-top: 1px solid #e5e5e5;
   padding-top: 30px;
 }
-.related .bsg-listing {
+.related .listing {
   margin-top: 20px;
 }
 
@@ -119,108 +243,69 @@ body {
   border-width: 0;
 }
 
-/* Ads in the listing */
-.carbonad {
-  width: 100% !important;
-  height: auto !important;
-  margin-bottom: 30px;
-  font-family: inherit !important;
-  font-size: 12px !important;
-  line-height: 16px !important;
-  background: #fff !important; /* reset image and color in one line */
-  border-color: #ddd !important;
-  border-radius: 4px;
-}
-.carbonad-image {
-  margin: 10px !important;
-}
-.carbonad-text {
-  float: none !important;
-  display: block !important;
-  width: auto !important;
-  max-width: 160px;
-  margin-left: 150px;
-  margin-right: 10px;
-  padding-top: 0 !important;
-}
-.carbonad-tag {
-  float: none !important;
-  display: block !important;
-  width: auto !important;
-  margin-left: 150px;
-  text-align: left !important;
-}
 
-.bsg-pagination {
+/*
+ * Pagination
+ */
+
+.paginator {
+  display: block;
+  margin: 0 -15px;
   font-weight: 500;
   color: #999;
   text-align: center;
-  border: solid #e5e5e5;
-  border-width: 1px 0;
 }
-.bsg-pagination .paginate {
+.paginator .paginate {
+  position: relative;
   display: block;
   padding: 20px;
   text-align: center;
+  border: 1px solid #e5e5e5;
 }
-.bsg-pagination .paginate:last-child {
-  border-top: 1px solid #e5e5e5;
+.paginator .paginate:last-child {
+  margin-top: -1px;
 }
-.bsg-pagination a.paginate:hover {
+.paginator a.paginate:hover {
+  z-index: 2;
   color: #fff;
   text-decoration: none;
   background-color: #428bca;
   border-color: #428bca;
 }
-
-.bsg-contribute {
-  text-align: center;
-  padding: 20px;
-  color: #999;
-  border-bottom: 1px solid #e5e5e5;
+@media (min-width: 768px) {
+  .paginator {
+    margin: 0 auto;
+    overflow: hidden; /* Clearfix */
+  }
+  .paginator .paginate {
+    float: left;
+    width: 50%;
+  }
+  .paginator .paginate:first-child {
+    border-top-left-radius: 4px;
+    border-bottom-left-radius: 4px;
+  }
+  .paginator .paginate:last-child {
+    margin-top: 0;
+    margin-left: -1px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+  }
 }
-.bsg-contribute p {
+
+
+/*
+ * Footer
+ */
+
+.footer {
+  margin: 30px 0;
+  padding: 20px 15px;
+  color: #999;
+  text-align: center;
+}
+.footer p {
   margin-bottom: 0;
   font-size: 14px;
   line-height: 30px;
-}
-
-
-
-@media (min-width: 481px) {
-  /* Left align masthead text */
-  .bsg-masthead {
-    text-align: left;
-  }
-  .bsg-masthead .tweet-btn {
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin-top: 0;
-  }
-
-  /* Left align footer text */
-  .bsg-contribute {
-    text-align: left;
-  }
-  .bsg-contribute .github-btn {
-    float: right;
-  }
-
-  /* 50/50 pagination links */
-  .bsg-pagination {
-    overflow: hidden; /* Clearfix */
-  }
-  .bsg-pagination .paginate {
-    float: left;
-    width: 50%;
-    text-align: center;
-    border-left: 1px solid #e5e5e5;
-    border-right: 1px solid #e5e5e5;
-  }
-  .bsg-pagination .paginate:last-child {
-    border-top: 0;
-    border-left-color: #fff;
-  }
-
 }

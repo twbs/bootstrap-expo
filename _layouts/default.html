@@ -5,25 +5,22 @@
   </head>
   <body>
 
-    <div class="bsg-masthead">
-      <div class="bsg-container">
-        <h1><a href="/">{{ site.name }}</a></h1>
-        <span class="tagline">Beautiful and inspiring uses of <a href="http://getbootstrap.com">Bootstrap</a></span>
-        <div class="tweet-btn">
-          <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://expo.getbootstrap.com/" data-size="large" data-count="none" data-via="twbootstrap" data-related="mdo:Creator of Twitter Bootstrap">Tweet</a>
-        </div>
+    <div class="masthead">
+      <div class="container-fluid">
+        <h1 class="masthead-title">
+          <a href="/">{{ site.name }}</a>
+        </h1>
+        <p class="masthead-lead">
+          Beautiful and inspiring examples of using <a href="http://getbootstrap.com">Bootstrap</a>, curated by project co-creator, <a href="https://twitter.com/mdo">@mdo</a>.
+        </p>
+        {% include carbonads.html %}
       </div>
     </div>
 
-    <div class="bsg-content">
-      <div class="bsg-container">
-        {{ content }}
-      </div>
-    </div>
+    <div class="container-fluid">
+      {{ content }}
 
-    <div class="bsg-pagination">
-      <div class="bsg-container">
-
+      <div class="paginator">
         {% if paginator.next_page %}
           <a href="/page{{paginator.next_page}}" class="paginate older">Older</a>
         {% else %}
@@ -39,11 +36,10 @@
         {% else %}
           <span class="paginate previous">Newer</span>
         {% endif %}
-
       </div>
     </div>
 
-  {% include footer.html %}
+    {% include footer.html %}
 
   </body>
 </html>
