@@ -3,9 +3,9 @@ layout: default
 title: "Bootstrap Expo"
 ---
 
-<div class="row listing">
+<div class="listing">
   {% for post in paginator.posts %}
-    <div class="col-sm-4" href="{{ post.url }}">
+    <div class="entry" href="{{ post.url }}">
       {{ post.content }}
 
       <span class="thumbnail-content">
