@@ -244,11 +244,14 @@ h1, h2, h3 {
 
 
 /*
- * Categories
+ * Resources
  */
 
 .category-list {
   color: #8a8a8a;
+}
+.resource-description {
+  font-weight: 300;
 }
 
 

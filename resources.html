@@ -8,61 +8,34 @@ title: Resources
 <h3 class="category-list-heading" id="#addons">Add-ons</h3>
 <ul class="category-list">
 {% for post in site.tags.addons %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
+  {% include resource-entry.html %}
 {% endfor %}
 </ul>
 
 <h3 class="category-list-heading" id="#showcases">Showcases</h3>
 <ul class="category-list">
 {% for post in site.tags.showcases %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
+  {% include resource-entry.html %}
 {% endfor %}
 </ul>
 
 <h3 class="category-list-heading" id="#themes">Themes</h3>
 <ul class="category-list">
 {% for post in site.tags.themes %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
+  {% include resource-entry.html %}
 {% endfor %}
 </ul>
-
-<!--
-<h3 class="category-list-heading" id="#wordpress">WordPress</h3>
-<ul class="category-list">
-{% for post in site.tags.wordpress %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
-{% endfor %}
-</ul>
--->
 
 <h3 class="category-list-heading" id="#code">Code</h3>
 <ul class="category-list">
 {% for post in site.tags.code %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
+  {% include resource-entry.html %}
 {% endfor %}
 </ul>
 
 <h3 class="category-list-heading" id="#misc">Miscellanous</h3>
 <ul class="category-list">
 {% for post in site.tags.misc %}
-  <li>
-    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
-    {{ post.content }}
-  </li>
+  {% include resource-entry.html %}
 {% endfor %}
 </ul>
