@@ -25,6 +25,16 @@ title: Resources
 {% endfor %}
 </ul>
 
+<h3 class="category-list-heading" id="#themes">Themes</h3>
+<ul class="category-list">
+{% for post in site.tags.themes %}
+  <li>
+    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
+    {{ post.content }}
+  </li>
+{% endfor %}
+</ul>
+
 <!--
 <h3 class="category-list-heading" id="#wordpress">WordPress</h3>
 <ul class="category-list">
