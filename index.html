@@ -4,7 +4,7 @@ title: "Home"
 ---
 
 {% for post in paginator.posts %}
- {% unless post.categories contains 'resources' %}
+  {% unless post.categories contains 'resources' %}
   <div class="entry">
     <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}">
       {{ post.content }}
