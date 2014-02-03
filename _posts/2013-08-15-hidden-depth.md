@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Hidden Depth"
+source: http://hiddendepth.ie/
 ---
 
-<a class="thumbnail" href="http://hiddendepth.ie/" target="_blank">
-  <img src="/screenshots/hidden-depth.jpg">
-</a>
+<img src="/screenshots/hidden-depth.jpg">

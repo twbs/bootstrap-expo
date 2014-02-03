@@ -1,0 +1,12 @@
+<div class="entry">
+  <a class="entry-thumb" href="{{ post.url }}" title="Visit {{ post.title }}">
+    {{ post.content }}
+    <span class="icon icon-forward entry-icon"></span>
+  </a>
+  <div class="entry-content">
+    <h2 class="entry-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+    <p class="entry-date">{{ post.date | date: "%B %-d %Y" }}</p>
+  </div>
+</div>

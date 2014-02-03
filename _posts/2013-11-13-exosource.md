@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Exosource"
+source: http://www.exosource.com/en/
 ---
 
-<a class="thumbnail" href="http://www.exosource.com/en/" target="_blank">
-  <img src="/screenshots/exosource.jpg">
-</a>
+<img src="/screenshots/exosource.jpg">

@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Todaymade"
+source: http://todaymade.com/
 ---
 
-<a class="thumbnail" href="http://todaymade.com/" target="_blank">
-  <img src="/screenshots/todaymade.jpg">
-</a>
+<img src="/screenshots/todaymade.jpg">

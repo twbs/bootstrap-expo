@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Localcrime"
+source: http://www.localcrimeapp.com/
 ---
 
-<a class="thumbnail" href="http://www.localcrimeapp.com/" target="_blank">
-  <img src="/screenshots/localcrime.jpg">
-</a>
+<img src="/screenshots/localcrime.jpg">

@@ -1,0 +1,48 @@
+---
+layout: page
+title: Resources
+---
+
+<p>Links to useful Bootstrap resources like additional showcases, integrations, add-ons, code snippets, and more. <a href="{{ site.expo_new_issue }}">Suggest new resources</a> on GitHub.</p>
+
+<h3 class="category-list-heading">Showcases</h3>
+<ul class="category-list">
+{% for post in site.tags.showcase %}
+  <li>
+    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
+    {{ post.content }}
+  </li>
+{% endfor %}
+</ul>
+
+<!--
+<h3 class="category-list-heading">WordPress</h3>
+<ul class="category-list">
+{% for post in site.tags.wordpress %}
+  <li>
+    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
+    {{ post.content }}
+  </li>
+{% endfor %}
+</ul>
+-->
+
+<h3 class="category-list-heading">Code</h3>
+<ul class="category-list">
+{% for post in site.tags.code %}
+  <li>
+    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
+    {{ post.content }}
+  </li>
+{% endfor %}
+</ul>
+
+<h3 class="category-list-heading">Miscellanous</h3>
+<ul class="category-list">
+{% for post in site.tags.misc %}
+  <li>
+    <a href="{{ post.source }}" target="_blank">{{ post.title }}</a>
+    {{ post.content }}
+  </li>
+{% endfor %}
+</ul>

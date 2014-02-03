@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Easybring"
+source: https://www.easybring.com/en
 ---
 
-<a class="thumbnail" href="https://www.easybring.com/en" target="_blank">
-  <img src="/screenshots/easybring.jpg">
-</a>
+<img src="/screenshots/easybring.jpg">

@@ -3,19 +3,29 @@ layout: nil
 ---
 
 {% include css/bootstrap.min.css %}
+{% include css/entypo.css %}
 
 
 /*
  * Global resets
  */
 
-body {
+html {
   font-size: 18px;
-  line-height: 1.25;
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.4;
+  background-color: #fafafa;
 }
 
 a:hover {
   text-decoration: none;
+}
+
+h1, h2, h3 {
+  font-weight: 300;
 }
 
 
@@ -24,45 +34,80 @@ a:hover {
  */
 
 .masthead {
-  position: relative;
-  padding: 30px 15px;
-  background-color: #fafafa;
+  padding: 1rem;
+}
+.masthead a {
+  color: #6a6a6a;
+}
+.masthead a:hover {
+  color: #3a3a3a;
 }
 
 /* Masthead (headings and download button) */
 .masthead-title {
   margin-top: 0;
-  margin-bottom: 5px;
-  font-weight: normal;
+  margin-bottom: .75rem;
+  font-size: 2.5rem;
   line-height: 1;
 }
-.masthead a {
+.masthead-title a {
   color: #563d7c;
 }
 .masthead-lead {
-  margin-bottom: 0;
-  font-size: 16px;
-  color: #999;
+  margin-bottom: .75rem;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #8a8a8a;
 }
 .masthead-lead a {
-  color: #666;
+  font-weight: normal;
 }
-.masthead-lead a:hover {
-  color: #333;
+
+/* Nav links */
+.masthead-nav {
+  list-style: none;
+  padding-left: 0;
+  margin-bottom: .75rem;
+  font-size: .75rem;
+}
+.nav-item {
+  display: block;
+}
+.nav-link {
+  line-height: 1.6;
+}
+.nav-link-active {
+  font-weight: 500;
+  color: #3a3a3a;
+}
+
+/* Dividers */
+.masthead-hr {
+  display: none;
+  width: 130px;
+  margin: 1rem 0;
+  border-top-color: #eee;
+  border-bottom: 0;
 }
 
 @media (min-width: 768px) {
-  .masthead h1 {
-    /*font-size: 40px;*/
+  .masthead {
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 35%;
+    max-width: 380px;
+    padding: 3rem 2rem;
   }
-  .masthead .lead {
-    /*font-size: 24px;*/
+  .masthead-hr {
+    display: block;
   }
 }
 
-@media (min-width: 992px) {
-  .masthead .lead {
-    /*font-size: 30px;*/
+@media (min-width: 1170px) {
+  .masthead {
+    width: 25%;
   }
 }
 
@@ -76,26 +121,28 @@ a:hover {
 
 .carbonad {
   width: auto !important;
-  margin: 30px -30px -30px !important;
-  padding: 10px !important;
+  margin: 1.5rem 0 0 !important;
+  padding: 0 !important;
   overflow: hidden; /* clearfix */
   height: auto !important;
-  font-size: 13px !important;
-  line-height: 16px !important;
+  font-size: .6rem !important;
+  line-height: 1.4 !important;
   text-align: left;
   background: transparent !important;
   border: 0 !important;
+  color: #8a8a8a !important;
 }
 .carbonad-img {
+  display: block !important;
   margin: 0 !important;
 }
 .carbonad-text,
 .carbonad-tag {
   float: none !important;
   display: block !important;
+  margin-left: 145px !important;
   width: auto !important;
   height: auto !important;
-  margin-left: 145px !important;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
 }
 .carbonad-text {
@@ -107,7 +154,12 @@ a:hover {
 }
 .carbonad-text a,
 .carbonad-tag a {
-  color: #563d7c !important;
+  font-weight: normal !important;
+  color: #6a6a6a !important;
+}
+.carbonad-text a:hover,
+.carbonad-tag a:hover {
+  color: #3a3a3a !important;
 }
 .carbonad #azcarbon > img {
   display: none; /* hide what I assume are tracking images */
@@ -115,37 +167,91 @@ a:hover {
 
 @media (min-width: 480px) {
   .carbonad {
-    width: 340px !important;
-    margin: 20px auto !important;
-/*    border-radius: 4px;
-    border: 1px solid #ddd !important;
-*/  }
+    max-width: 300px !important;
+  }
 }
 
 @media (min-width: 768px) {
   .carbonad {
+    max-width: 130px !important;
+    margin-top: 0 !important;
+  }
+  .carbonad-img {
+    float: none !important;
+    margin: 0 0 .75rem !important;
+  }
+  .carbonad-text,
+  .carbonad-tag {
     margin-left: 0 !important;
-    margin-right: 0 !important;
-  }
-}
-
-@media (min-width: 992px) {
-  .carbonad {
-    position: absolute;
-    top: 0;
-    right: 0;
-    margin: 0 !important;
   }
 }
 
 
+/*
+ * Listing and pages
+ *
+ * Series of entries.
+ */
 
 .listing {
-  /*margin: 40px -15px;*/
+  max-width: 900px;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
-.listing .col-sm-4 {
-  /*margin-bottom: 30px;*/
+.entry,
+.page {
+  margin-top:    1rem;
+  margin-bottom: 1rem;
 }
+
+@media (min-width: 768px) {
+  .listing {
+    margin-left: 35%;
+    width: 65%;
+    padding-left: 0;
+  }
+  .entry,
+  .page {
+    margin-top:    3rem;
+    margin-bottom: 3rem;
+  }
+}
+
+@media (min-width: 1170px) {
+  .listing {
+    width: 70%;
+    margin-left: 27.5%;
+    margin-right: 2.5%;
+  }
+}
+
+
+/*
+ * Pages
+ */
+
+.page {
+  max-width: 700px;
+}
+.page-title {
+  font-size: 2rem;
+}
+.page-title + p {
+  font-size: 1.25rem;
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+
+/*
+ * Categories
+ */
+
+.category-list {
+  color: #8a8a8a;
+}
+
+
 
 
 /*
@@ -154,93 +260,78 @@ a:hover {
  * Thumbnails for the grid of entries on the homepage and individual post pages.
  */
 
-.thumbnail {
+/* Markdown override */
+.entry p {
+  margin-bottom: 0;
+}
+
+.entry-icon {
+  position: absolute;
+  display: block;
+  text-align: center;
+  top: 50%;
+  left: 0;
+  right: 0;
+  font-size: 6rem;
+  color: #fff;
+  opacity: 0;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+          transform: translateY(-50%);
+  transition: opacity .2s linear;
+  transition-delay: .05s;
+}
+
+.entry-thumb {
   position: relative;
   display: block;
-  overflow: hidden;
-  margin-bottom: 0;
-  padding: 0;
-  border: 0;
-  /*width: 25%;*/
-  /*float: left;*/
-  border-radius: 0;
-  background-color: #000;
+  border-radius: 3px;
 }
-.thumbnail-content {
-  display: none;
-}
-.thumbnail:hover img {
-  opacity: .85;
-}
-
-.row {
-  margin-left:  -14px;
-  margin-right: -14px;
-}
-.col-sm-4 {
-  padding: 0;
-  border: 1px solid #fafafa;
-}
-
-/*
-.thumbnail::after {
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: 5;
-  content: "";
-  border: 1px solid rgba(0,0,0,.25);
-}
-.thumbnail::after,
-.thumbnail img {
+.entry-thumb img {
   display: block;
-  border-radius: 4px;
+  width: 100%;
+  border-radius: 3px;
+  transition: opacity .2s linear;
 }
-.thumbnail img {
-  box-shadow: 0 1px 3px rgba(0,0,0,.075);
+.entry-thumb:hover img {
+  opacity: .65;
 }
-*/
-.bse-thumb-title {
-  margin-top: 10px;
-  margin-bottom: 0;
-}
-.bse-thumb-date {
-  font-size: 14px;
-  color: #aaa;
+.entry-thumb:hover .entry-icon {
+  opacity: 1;
 }
 
+.entry-content {
+  text-align: center;
+}
+.entry-title {
+  margin-top: 1rem;
+  margin-bottom: .25rem;
+}
+.entry-title a {
+  color: #3a3a3a;
+}
+.entry-title a:hover {
+  color: #1a1a1a;
+}
+.entry-date {
+  font-weight: 300;
+  color: #8a8a8a;
+}
 
-.bse-show {
-  margin-bottom: 50px;
-  margin-left: -15px;
-  margin-right: -15px;
-}
-.bse-show .col-span-8 {
-  margin-bottom: 60px;
-}
-.bse-show .post-title {
-  margin: 0;
-  font-size: 30px;
-}
-.bse-show .post-date {
-  display: block;
-  font-size: 14px;
-  color: #aaa;
-  margin-bottom: 20px;
-}
 
 .related {
   border-top: 1px solid #e5e5e5;
   padding-top: 30px;
 }
-.related .listing {
-  margin-top: 20px;
+.related-title {
+  font-weight: 300;
 }
-
-.github-btn {
-  border-width: 0;
+.related .entry {
+  margin-top: .5rem;
+  margin-bottom: 0;
+}
+.related p {
+  font-size: .8rem;
 }
 
 
@@ -250,7 +341,7 @@ a:hover {
 
 .paginator {
   display: block;
-  margin: 0 -15px;
+  margin: 2rem -15px 0;
   font-weight: 500;
   color: #999;
   text-align: center;
@@ -260,7 +351,7 @@ a:hover {
   display: block;
   padding: 20px;
   text-align: center;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #eee;
 }
 .paginator .paginate:last-child {
   margin-top: -1px;
@@ -272,9 +363,10 @@ a:hover {
   background-color: #428bca;
   border-color: #428bca;
 }
+
 @media (min-width: 768px) {
   .paginator {
-    margin: 0 auto;
+    margin: 2rem auto;
     overflow: hidden; /* Clearfix */
   }
   .paginator .paginate {

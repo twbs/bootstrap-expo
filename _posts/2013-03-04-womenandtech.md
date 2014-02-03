@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Women and Tech"
+source: http://womenandtech.com
 ---
 
-<a class="thumbnail" href="http://womenandtech.com" target="_blank">
-  <img src="/screenshots/womenandtech.jpg">
-</a>
+<img src="/screenshots/womenandtech.jpg">

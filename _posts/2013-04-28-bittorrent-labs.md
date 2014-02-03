@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "BitTorrent Labs"
+source: http://labs.bittorrent.com
 ---
 
-<a class="thumbnail" href="http://labs.bittorrent.com" target="_blank">
-  <img src="/screenshots/bittorrent-labs.jpg">
-</a>
+<img src="/screenshots/bittorrent-labs.jpg">

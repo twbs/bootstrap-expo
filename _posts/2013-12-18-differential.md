@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Differential"
+source: http://differential.io/
 ---
 
-<a class="thumbnail" href="http://differential.io/" target="_blank">
-  <img src="/screenshots/differential.jpg">
-</a>
+<img src="/screenshots/differential.jpg">

@@ -6,37 +6,53 @@
   <body>
 
     <div class="masthead">
-      <div class="container-fluid">
-        <h1 class="masthead-title">
-          <a href="/">{{ site.name }}</a>
-        </h1>
-        <p class="masthead-lead">
-          Beautiful and inspiring examples of using <a href="http://getbootstrap.com">Bootstrap</a>, curated by project co-creator, <a href="https://twitter.com/mdo">@mdo</a>.
-        </p>
-        {% include carbonads.html %}
-      </div>
+      <h1 class="masthead-title">
+        <a href="/">{{ site.name }}</a>
+      </h1>
+      <p class="masthead-lead">
+        Beautiful and inspiring uses of <a href="{{ site.docs }}">Bootstrap</a>, curated by <a href="https://twitter.com/mdo">@mdo</a>.
+      </p>
+
+      <hr class="masthead-hr">
+
+      <ul class="masthead-nav">
+        <li class="nav-item">
+          <a class="nav-link{% if page.title == "Home" %} nav-link-active{% endif %}" href="/">Home</a>
+        </li>
+
+        {% assign pages_list = site.pages %}
+        {% for node in pages_list %}
+          {% if node.title != null %}
+            {% if node.layout == "page" %}
+              <li class="nav-item">
+                <a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+              </li>
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <hr class="masthead-hr">
+
+      <ul class="masthead-nav">
+        <li class="nav-item">
+          <a class="nav-link" href="{{ site.expo_new_issue }}"  target="_blank">Suggest a site</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="/feed.xml" target="_blank">RSS feed</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="https://twitter.com/twbootstrap" target="_blank">Twitter</a>
+        </li>
+      </ul>
+
+      <hr class="masthead-hr">
+
+      {% include carbonads.html %}
     </div>
 
-    <div class="container-fluid">
+    <div class="listing">
       {{ content }}
-
-      <div class="paginator">
-        {% if paginator.next_page %}
-          <a href="/page{{paginator.next_page}}" class="paginate older">Older</a>
-        {% else %}
-          <span class="paginate next">Older</span>
-        {% endif %}
-
-        {% if paginator.previous_page %}
-          {% if paginator.page == 2 %}
-            <a href="/" class="paginate newer">Newer</a>
-          {% else %}
-            <a href="/page{{paginator.previous_page}}" class="paginate newer">Newer</a>
-          {% endif %}
-        {% else %}
-          <span class="paginate previous">Newer</span>
-        {% endif %}
-      </div>
     </div>
 
     {% include footer.html %}

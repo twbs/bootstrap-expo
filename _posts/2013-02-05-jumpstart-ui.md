@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Jumpstart UI"
+source: http://jumpstartui.com
 ---
 
-<a class="thumbnail" href="http://jumpstartui.com" target="_blank">
-  <img src="/screenshots/jumpstart-ui.jpg">
-</a>
+<img src="/screenshots/jumpstart-ui.jpg">

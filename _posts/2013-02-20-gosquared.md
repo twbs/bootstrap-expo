@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Go Squared"
+source: https://gosquared.com
 ---
 
-<a class="thumbnail" href="https://gosquared.com" target="_blank">
-  <img src="/screenshots/gosquared.jpg">
-</a>
+<img src="/screenshots/gosquared.jpg">

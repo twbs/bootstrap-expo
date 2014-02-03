@@ -1,17 +1,24 @@
 # Dependencies
-markdown:     rdiscount
-pygments:     false
+pygments:         false
+
 
 # Permalinks
-permalink:    pretty
+permalink:        pretty
+
 
 # Settings
-destination:  ./_gh_pages
-exclude:      ["README.md"]
-paginate:     9
+destination:      ./_gh_pages
+exclude:          ["README.md"]
+paginate:         9
+encoding:         UTF-8
+future:           false
+name:             Bootstrap Expo
+url:              http://expo.getbootstrap.com
 
-name:         Bootstrap Expo
-description:  Beautiful and inspiring uses of Bootstrap
-url:          http://expo.getbootstrap.com
 
-future:       false
+# Links
+expo_repo:        https://github.com/twbs/bootstrap-expo/
+expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+
+docs:             http://getbootstrap.com
+blog:             http://blog.getbootstrap.com

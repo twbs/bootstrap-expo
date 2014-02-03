@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Les Bonbecs"
+source: https://lesbonbecs.com/
 ---
 
-<a class="thumbnail" href="https://lesbonbecs.com/" target="_blank">
-  <img src="/screenshots/les-bonbecs.jpg">
-</a>
+<img src="/screenshots/les-bonbecs.jpg">

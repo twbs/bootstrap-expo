@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Smart Design"
+source: http://smartdesignworldwide.com/
 ---
 
-<a class="thumbnail" href="http://smartdesignworldwide.com/" target="_blank">
-  <img src="/screenshots/smart-design.jpg">
-</a>
+<img src="/screenshots/smart-design.jpg">

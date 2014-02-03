@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Adopt-a-Hydrant"
+source: http://adoptahydrant.com
 ---
 
-<a class="thumbnail" href="http://adoptahydrant.com" target="_blank">
-  <img src="/screenshots/adoptahydrant.jpg">
-</a>
+<img src="/screenshots/adoptahydrant.jpg">

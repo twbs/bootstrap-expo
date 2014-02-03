@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Black Swan State Theatre Company"
+source: http://bsstc.com.au
 ---
 
-<a class="thumbnail" href="http://bsstc.com.au" target="_blank">
-  <img src="/screenshots/black-swan-state-theatre-company.jpg">
-</a>
+<img src="/screenshots/black-swan-state-theatre-company.jpg">

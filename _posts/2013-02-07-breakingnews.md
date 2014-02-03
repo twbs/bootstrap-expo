@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Breaking News"
+source: http://breakingnews.com
 ---
 
-<a class="thumbnail" href="http://breakingnews.com" target="_blank">
-  <img src="/screenshots/breakingnews.jpg">
-</a>
-
+<img src="/screenshots/breakingnews.jpg">

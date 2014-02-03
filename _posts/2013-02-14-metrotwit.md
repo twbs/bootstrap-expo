@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "MetroTwit"
+source: http://metrotwit.com
 ---
 
-<a class="thumbnail" href="http://metrotwit.com" target="_blank">
-  <img src="/screenshots/metrotwit.jpg">
-</a>
+<img src="/screenshots/metrotwit.jpg">

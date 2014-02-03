@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "GatherContent"
+source: http://gathercontent.com
 ---
 
-<a class="thumbnail" href="http://gathercontent.com" target="_blank">
-  <img src="/screenshots/gathercontent.jpg">
-</a>
+<img src="/screenshots/gathercontent.jpg">

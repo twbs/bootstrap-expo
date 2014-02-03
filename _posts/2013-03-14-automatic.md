@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Automatic"
+source: http://automatic.com
 ---
 
-<a class="thumbnail" href="http://automatic.com" target="_blank">
-  <img src="/screenshots/automatic.jpg">
-</a>
+<img src="/screenshots/automatic.jpg">

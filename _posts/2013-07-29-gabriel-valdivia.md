@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Gabriel Valdivia | Design Portfolio"
+source: http://www.gabrielvaldivia.com
 ---
 
-<a class="thumbnail" href="http://www.gabrielvaldivia.com" target="_blank">
-  <img src="/screenshots/gabriel-valdivia.jpg">
-</a>
+<img src="/screenshots/gabriel-valdivia.jpg">

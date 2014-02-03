@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Fortrabbit"
+source: http://fortrabbit.com
 ---
 
-<a class="thumbnail" href="http://fortrabbit.com" target="_blank">
-  <img src="/screenshots/fortrabbit.jpg">
-</a>
+<img src="/screenshots/fortrabbit.jpg">

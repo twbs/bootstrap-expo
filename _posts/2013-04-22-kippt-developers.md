@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Kippt Developers"
+source: http://developers.kippt.com/
 ---
 
-<a class="thumbnail" href="http://developers.kippt.com/" target="_blank">
-  <img src="/screenshots/kippt-developers.jpg">
-</a>
+<img src="/screenshots/kippt-developers.jpg">

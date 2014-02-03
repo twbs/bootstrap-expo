@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Flow for Instagram"
+source: http://www.theflowapp.com/
 ---
 
-<a class="thumbnail" href="http://www.theflowapp.com/" target="_blank">
-  <img src="/screenshots/flow-for-instagram.jpg">
-</a>
+<img src="/screenshots/flow-for-instagram.jpg">

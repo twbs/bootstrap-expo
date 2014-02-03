@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "WildPhotos"
+source: http://wildphotos.org.uk/
 ---
 
-<a class="thumbnail" href="http://wildphotos.org.uk/" target="_blank">
-  <img src="/screenshots/wildphotos.jpg">
-</a>
+<img src="/screenshots/wildphotos.jpg">

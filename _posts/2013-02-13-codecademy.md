@@ -1,8 +1,7 @@
 ---
 layout: post
 title: "Codecademy"
+source: http://codecademy.com
 ---
 
-<a class="thumbnail" href="http://codecademy.com" target="_blank">
-  <img src="/screenshots/codecademy.jpg">
-</a>
+<img src="/screenshots/codecademy.jpg">
