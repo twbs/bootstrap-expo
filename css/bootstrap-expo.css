@@ -92,7 +92,7 @@ h1, h2, h3 {
 
 @media (min-width: 768px) {
   .masthead {
-    position: fixed;
+    position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
@@ -102,6 +102,12 @@ h1, h2, h3 {
   }
   .masthead-hr {
     display: block;
+  }
+}
+
+@media (min-width: 768px) and (min-height: 700px) {
+  .masthead {
+    position: fixed;
   }
 }
 
