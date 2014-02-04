@@ -9,7 +9,7 @@ permalink:        pretty
 # Settings
 destination:      ./_gh_pages
 exclude:          ["README.md"]
-paginate:         9
+paginate:         10
 encoding:         UTF-8
 future:           false
 name:             Bootstrap Expo

@@ -336,6 +336,15 @@ h1, h2, h3 {
   font-size: .8rem;
 }
 
+.resource-thumb {
+  padding: 1rem;
+  background-color: #fff;
+}
+.related .resource-thumb p {
+  font-size: 1rem;
+  color: #8a8a8a;
+}
+
 
 /*
  * Pagination
