@@ -6,7 +6,7 @@ title: "Home"
 {% for post in paginator.posts %}
   {% unless post.categories contains 'resources' %}
   <div class="entry">
-    <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}">
+    <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
       {{ post.content }}
       <span class="icon icon-forward entry-icon"></span>
     </a>
