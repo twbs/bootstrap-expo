@@ -17,3 +17,7 @@
 - name: Joostrap
   url: http://www.joostrap.com/
   desc: Mobile first Joomla templates powered by Boostrap.
+
+- name: Bootstrap Zero
+  url: http://bootstrapzero.com
+  desc: Free starter and custom templates for Bootstrap.
