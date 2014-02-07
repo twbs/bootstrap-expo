@@ -1,0 +1,15 @@
+- name: Start Bootstrap
+  url: http://startbootstrap.com/
+  desc: Free and open source templates and themes for Bootstrap.
+
+- name: Bootply
+  url: http://bootply.com/new
+  desc: Playground for building with Bootstrap, featuring examples, code sharing, and more.
+
+- name: Bootsnipp
+  url: http://bootsnipp.com
+  desc: Design elements, playground, and code snippets for Bootstrap.
+
+- name: Pingendo
+  url: http://www.pingendo.com/
+  desc: Desktop application for prototyping responsive web pages with Bootstrap.

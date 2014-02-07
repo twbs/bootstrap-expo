@@ -1,0 +1,7 @@
+- name: Love Bootstrap
+  url: http://lovebootstrap.com
+  desc: A showcase gallery of the world's best Bootstrap sites.
+
+- name: Built with Bootstrap
+  url: http://builtwithbootstrap.com
+  desc: A showcase of sites and apps built with Bootstrap.

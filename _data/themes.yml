@@ -1,0 +1,19 @@
+- name: Roots
+  url: http://roots.io
+  desc: Make better themes with HTML5 Boilerplate, Bootstrap, and Grunt.
+
+- name: Bootswatchr
+  url: http://bootswatchr.com/
+  desc: Visual theme roller for Bootstrap, complete with RTL support.
+
+- name: WrapBootstrap
+  url: https://wrapbootstrap.com/
+  desc: Marketplace for premium Bootstrap themes and templates.
+
+- name: Theme Armada
+  url: http://themearmada.com/
+  desc: Handcrafted responsive themes built with Bootstrap.
+
+- name: Joostrap
+  url: http://www.joostrap.com/
+  desc: Mobile first Joomla templates powered by Boostrap.

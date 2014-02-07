@@ -250,7 +250,11 @@ h1, h2, h3 {
 .category-list {
   color: #8a8a8a;
 }
+.category-list > li {
+  margin-bottom: .25rem;
+}
 .resource-description {
+  display: block;
   font-weight: 300;
 }
 
@@ -334,15 +338,6 @@ h1, h2, h3 {
 }
 .related p {
   font-size: .8rem;
-}
-
-.resource-thumb {
-  padding: 1rem;
-  background-color: #fff;
-}
-.related .resource-thumb p {
-  font-size: 1rem;
-  color: #8a8a8a;
 }
 
 

@@ -21,27 +21,15 @@ layout: default
     {% for post in site.related_posts limit:3 %}
       <div class="col-sm-4">
         <div class="entry">
-          {% if post.categories contains 'resources' %}
-            <a href="{{ site.url }}/resources#{{ post.tags }}" class="entry-thumb resource-thumb">
-              {{ post.content }}
-            </a>
-            <div class="entry-content">
-              <h4 class="entry-title">
-                <a href="{{ site.url }}/resources#{{ post.tags }}">{{ post.title }}</a>
-              </h4>
-              <p class="entry-date">{{ post.date | date: "%B %-d %Y" }}</p>
-            </div>
-          {% else %}
-            <a class="entry-thumb" href="{{ post.url }}" title="Visit {{ post.title }}">
-              {{ post.content }}
-            </a>
-            <div class="entry-content">
-              <h4 class="entry-title">
-                <a href="{{ post.url }}">{{ post.title }}</a>
-              </h4>
-              <p class="entry-date">{{ post.date | date: "%B %-d %Y" }}</p>
-            </div>
-          {% endif %}
+          <a class="entry-thumb" href="{{ post.url }}" title="Visit {{ post.title }}">
+            {{ post.content }}
+          </a>
+          <div class="entry-content">
+            <h4 class="entry-title">
+              <a href="{{ post.url }}">{{ post.title }}</a>
+            </h4>
+            <p class="entry-date">{{ post.date | date: "%B %-d %Y" }}</p>
+          </div>
         </div>
       </div>
     {% endfor %}

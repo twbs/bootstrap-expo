@@ -1,0 +1,3 @@
+- name: Bootstrap Datepicker
+  url: https://github.com/eternicode/bootstrap-datepicker
+  desc: A flexible datepicker and datepicker builder for Bootstrap.

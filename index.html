@@ -4,7 +4,6 @@ title: "Home"
 ---
 
 {% for post in paginator.posts %}
-  {% unless post.categories contains 'resources' %}
   <div class="entry">
     <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
       {{ post.content }}
@@ -17,7 +16,6 @@ title: "Home"
       <p class="entry-date">{{ post.date | date: "%B %-d %Y" }}</p>
     </div>
   </div>
-  {% endunless %}
 {% endfor %}
 
 {% include pagination.html %}
