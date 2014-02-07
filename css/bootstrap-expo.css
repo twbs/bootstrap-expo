@@ -279,6 +279,7 @@ h1, h2, h3 {
   right: 0;
   font-size: 6rem;
   color: #fff;
+  text-shadow: 0 0 3rem rgba(0,0,0,.15);
   opacity: 0;
   -webkit-transform: translateY(-50%);
       -ms-transform: translateY(-50%);
