@@ -2,6 +2,10 @@
   url: http://roots.io
   desc: Make better themes with HTML5 Boilerplate, Bootstrap, and Grunt.
 
+- name: Jumpstart Themes
+  url: http://jumpstartthemes.com
+  desc: Beautiful and functional admin templates and landing pages for Bootstrap.
+
 - name: Bootswatchr
   url: http://bootswatchr.com/
   desc: Visual theme roller for Bootstrap, complete with RTL support.
