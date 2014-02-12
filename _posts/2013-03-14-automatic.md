@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Automatic"
+slug: automatic
 source: http://automatic.com
 ---
 

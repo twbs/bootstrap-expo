@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Gabriel Valdivia | Design Portfolio"
+title: "Gabriel Valdivia"
+slug: gabriel-valdivia
 source: http://www.gabrielvaldivia.com
 ---
 

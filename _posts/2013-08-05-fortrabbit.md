@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Fortrabbit"
+slug: fortrabbit
 source: http://fortrabbit.com
 ---
 

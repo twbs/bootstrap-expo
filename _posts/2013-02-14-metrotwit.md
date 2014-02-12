@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "MetroTwit"
+slug: metrotwit
 source: http://metrotwit.com
 ---
 

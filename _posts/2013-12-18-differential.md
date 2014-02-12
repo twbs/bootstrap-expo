@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Differential"
+slug: differential
 source: http://differential.io/
 ---
 

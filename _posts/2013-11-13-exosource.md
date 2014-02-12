@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Exosource"
+slug: exosource
 source: http://www.exosource.com/en/
 ---
 

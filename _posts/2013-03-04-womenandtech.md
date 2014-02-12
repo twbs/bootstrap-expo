@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Women and Tech"
+slug: womenandtech
 source: http://womenandtech.com
 ---
 

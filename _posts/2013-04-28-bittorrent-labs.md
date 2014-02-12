@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "BitTorrent Labs"
+slug: bittorrent-labs
 source: http://labs.bittorrent.com
 ---
 

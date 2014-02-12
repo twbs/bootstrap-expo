@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Todaymade"
+slug: todaymade
 source: http://todaymade.com/
 ---
 

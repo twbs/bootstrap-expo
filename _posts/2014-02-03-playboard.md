@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Playboard"
+slug: playboard
 source: http://playboard.me/
 ---
 

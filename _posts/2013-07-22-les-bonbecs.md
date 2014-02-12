@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Les Bonbecs"
+slug: les-bonbecs
 source: https://lesbonbecs.com/
 ---
 

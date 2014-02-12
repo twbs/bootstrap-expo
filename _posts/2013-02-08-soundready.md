@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SoundReady"
+slug: soundready
 source: http://soundready.fm
 ---
 
