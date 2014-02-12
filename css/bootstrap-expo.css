@@ -333,6 +333,7 @@ h1, h2, h3 {
 
 .related {
   padding-top: 3rem;
+  margin-top: 3rem;
   margin-bottom: 3rem;
   border-top: 1px solid #e5e5e5;
 }

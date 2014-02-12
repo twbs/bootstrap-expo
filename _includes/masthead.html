@@ -1,0 +1,45 @@
+<div class="masthead">
+  <h1 class="masthead-title">
+    <a href="/">{{ site.name }}</a>
+  </h1>
+  <p class="masthead-lead">
+    Beautiful and inspiring uses of <a href="{{ site.docs }}">Bootstrap</a>, curated by <a href="https://twitter.com/mdo">@mdo</a>.
+  </p>
+
+  <hr class="masthead-hr">
+
+  <ul class="masthead-nav">
+    <li class="nav-item">
+      <a class="nav-link{% if page.title == "Home" %} nav-link-active{% endif %}" href="/">Home</a>
+    </li>
+
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <li class="nav-item">
+            <a class="nav-link{% if page.url == node.url %} nav-link-active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+          </li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <hr class="masthead-hr">
+
+  <ul class="masthead-nav">
+    <li class="nav-item">
+      <a class="nav-link" href="{{ site.expo_new_issue }}"  target="_blank">Suggest a site</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="/feed.xml" target="_blank">RSS feed</a>
+    </li>
+    <li class="nav-item">
+      <a class="nav-link" href="https://twitter.com/twbootstrap" target="_blank">Twitter</a>
+    </li>
+  </ul>
+
+  <hr class="masthead-hr">
+
+  {% include carbonads.html %}
+</div>
