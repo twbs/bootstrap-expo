@@ -13,3 +13,7 @@
 - name: Pingendo
   url: http://www.pingendo.com/
   desc: Desktop application for prototyping responsive web pages with Bootstrap.
+
+- name: GwtBootstrap
+  url: https://github.com/gwtbootstrap3/gwtbootstrap3
+  desc: GWT wrapper for Bootstrap containing design templates, styles, and beautiful widgets.

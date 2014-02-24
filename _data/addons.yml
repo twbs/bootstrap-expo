@@ -1,3 +1,15 @@
 - name: Bootstrap Datepicker
   url: https://github.com/eternicode/bootstrap-datepicker
   desc: A flexible datepicker and datepicker builder for Bootstrap.
+
+- name: Bootstrap Tour
+  url: http://bootstraptour.com
+  desc: Extend Bootstrap's popovers to easily tour visitors around your website.
+
+- name: Bootstrap Lightbox
+  url: http://ashleydw.github.io/lightbox/
+  desc: Extend the Bootstrap modal to implement a lightbox gallery.
+
+- name: Bootstrap Dialog
+  url: https://github.com/nakupanda/bootstrap3-dialog
+  desc: Make Bootstrap's default modal more monkey-friendly.

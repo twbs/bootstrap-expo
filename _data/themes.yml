@@ -6,6 +6,14 @@
   url: http://jumpstartthemes.com
   desc: Beautiful and functional admin templates and landing pages for Bootstrap.
 
+- name: Black Tie
+  url: http://blacktie.co
+  desc: Free handsome Bootstrap themes.
+
+- name: Bootswatch
+  url: http://bootswatch.com
+  desc: Free themes for Bootstrap.
+
 - name: Bootswatchr
   url: http://bootswatchr.com/
   desc: Visual theme roller for Bootstrap, complete with RTL support.
@@ -13,6 +21,18 @@
 - name: WrapBootstrap
   url: https://wrapbootstrap.com/
   desc: Marketplace for premium Bootstrap themes and templates.
+
+- name: ProUI
+  url: http://pixelcave.com/proui
+  desc: A premium and fully responsive admin template built on Bootstrap.
+
+- name: RandThemes
+  url: http://randthemes.com
+  desc: WordPress and Bootstrap themes.
+
+- name: PHPstrap.in
+  url: http://www.phpstrap.in
+  desc: Tame the static templates and bring them to life with PHP.
 
 - name: Theme Armada
   url: http://themearmada.com/
