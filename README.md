@@ -14,26 +14,6 @@ To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/
 
 
 
-## Additional resources
-
-Beyond the official gallery, there are a handful of services documenting examples of Bootstrap in the wild.
-
-#### Bootstrap communiqué
-* **[Official Bootstrap blog](http://blog.getbootstrap.com)** - Get the latest on Bootstrap's development.
-* **[@twbootstrap on Twitter](http://twitter.com/twbootstrap)** - Follow the official project Twitter account.
-
-#### Community showcases
-* **[Built with Bootstrap](http://builtwithbootstrap.com)** - The original community-powered Bootstrap gallery.
-* **[Love Bootstrap](http://lovebootstrap.com/)** - Bootstrap gallery from the community.
-
-#### Community resources
-* **[List of Bootstrap Resources](http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources)** - A compendium of resources, themes, customizers, plugins, and more.
-* **[Gallery of snippets and playground for Bootstrap](http://bootsnipp.com)** - Hundreds of community-contributed snippets for Bootstrap, button builder, form builder and collection of resources.
-
-Have something to add? [Let us know](https://github.com/twbs/bootstrap-expo/issues/new).
-
-
-
 ## Maintainers
 
 **Mark Otto**
@@ -50,4 +30,4 @@ Have something to add? [Let us know](https://github.com/twbs/bootstrap-expo/issu
 
 ## Copyright
 
-Copyright 2013 Mark Otto.
+Copyright 2014 Mark Otto.
