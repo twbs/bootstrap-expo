@@ -10,6 +10,10 @@
   url: http://bootsnipp.com
   desc: Design elements, playground, and code snippets for Bootstrap.
 
+- name: Devools
+  url: http://www.devools.com
+  desc: Code snippets and tools to speed up your development time.
+
 - name: Pingendo
   url: http://www.pingendo.com/
   desc: Desktop application for prototyping responsive web pages with Bootstrap.
