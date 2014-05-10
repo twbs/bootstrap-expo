@@ -10,6 +10,10 @@
   url: https://github.com/eternicode/bootstrap-datepicker
   desc: A flexible datepicker and datepicker builder for Bootstrap.
 
+- name: Bootstrap Star rating
+  url: http://plugins.krajee.com/star-rating
+  desc: Star rating plugin for Bootstrap with fractional star fill and RTL input support.
+
 - name: Bootstrap Tour
   url: http://bootstraptour.com
   desc: Extend Bootstrap's popovers to easily tour visitors around your website.
