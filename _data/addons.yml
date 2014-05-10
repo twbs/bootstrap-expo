@@ -2,6 +2,10 @@
   url: https://github.com/silviomoreto/bootstrap-select
   desc: A custom select menu for Bootstrap using the provided button dropdowns.
 
+- name: Bootstrap File input
+  url: http://plugins.krajee.com/file-input
+  desc: Enhances the default file input with file preview for images and text, multiple selection, and more.
+
 - name: Bootstrap Datepicker
   url: https://github.com/eternicode/bootstrap-datepicker
   desc: A flexible datepicker and datepicker builder for Bootstrap.
