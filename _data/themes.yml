@@ -22,6 +22,10 @@
   url: https://wrapbootstrap.com/
   desc: Marketplace for premium Bootstrap themes and templates.
 
+- name: Dashboard 3
+  url: http://demo.neontheme.com/dashboard/main-3/
+  desc: Administrative dashboard theme built with Bootstrap.
+
 - name: ProUI
   url: http://pixelcave.com/proui
   desc: A premium and fully responsive admin template built on Bootstrap.
