@@ -1,3 +1,7 @@
+- name: UI Bootstrap
+  url: http://angular-ui.github.io/bootstrap/
+  desc: Bootstrap components rewritten in AngularJS by the AngularUI team.
+
 - name: Start Bootstrap
   url: http://startbootstrap.com/
   desc: Free and open source templates and themes for Bootstrap.
