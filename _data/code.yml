@@ -2,6 +2,10 @@
   url: http://angular-ui.github.io/bootstrap/
   desc: Bootstrap components rewritten in AngularJS by the AngularUI team.
 
+- name: Dojo Bootstrap
+  url: http://dojobootstrap.com
+  desc: Bootstrap components rewritten as custom Dojo modules.
+
 - name: Start Bootstrap
   url: http://startbootstrap.com/
   desc: Free and open source templates and themes for Bootstrap.
