@@ -30,4 +30,4 @@ To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/
 
 ## Copyright
 
-Copyright 2014 Mark Otto.
+Copyright 2014 Mark Otto. [Licensed under CC BY-NC-ND 4.0.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
