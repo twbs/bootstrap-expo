@@ -34,7 +34,7 @@ h1, h2, h3 {
  */
 
 .masthead {
-  padding: 1rem;
+  padding: 1.5rem;
 }
 .masthead a {
   color: #6a6a6a;
@@ -83,7 +83,6 @@ h1, h2, h3 {
 
 /* Dividers */
 .masthead-hr {
-  display: none;
   width: 130px;
   margin: 1rem 0;
   border-top-color: #eee;
@@ -99,9 +98,6 @@ h1, h2, h3 {
     width: 35%;
     max-width: 380px;
     padding: 3rem 2rem;
-  }
-  .masthead-hr {
-    display: block;
   }
 }
 
@@ -127,7 +123,7 @@ h1, h2, h3 {
 
 .carbonad {
   width: auto !important;
-  margin: 1.5rem 0 0 !important;
+  margin: 1.5rem 0 !important;
   padding: 0 !important;
   overflow: hidden; /* clearfix */
   height: auto !important;
@@ -201,13 +197,13 @@ h1, h2, h3 {
 
 .listing {
   max-width: 900px;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
 }
 .entry,
 .page {
-  margin-top:    1rem;
-  margin-bottom: 1rem;
+  margin-top:    1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 @media (min-width: 768px) {
