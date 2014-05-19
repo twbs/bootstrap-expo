@@ -201,7 +201,8 @@ h1, h2, h3 {
   padding-right: 1.5rem;
 }
 .entry,
-.page {
+.page,
+.list {
   margin-top:    1.5rem;
   margin-bottom: 1.5rem;
 }
@@ -213,7 +214,8 @@ h1, h2, h3 {
     padding-left: 0;
   }
   .entry,
-  .page {
+  .page,
+  .list {
     margin-top:    3rem;
     margin-bottom: 3rem;
   }
@@ -410,4 +412,22 @@ h1, h2, h3 {
   margin-bottom: 0;
   font-size: 14px;
   line-height: 30px;
+}
+
+
+/*
+ * List page
+ */
+
+.list {
+  padding-left: 0;
+  list-style: none;
+}
+.list li {
+  display: block;
+  margin-bottom: 5px;
+}
+.list span {
+  float: right;
+  color: #999;
 }
