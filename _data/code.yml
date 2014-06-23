@@ -1,3 +1,7 @@
+- name: React Bootstrap
+  url: http://react-bootstrap.github.io/
+  desc: Bootstrap 3 components rebuilt with React.
+
 - name: UI Bootstrap
   url: http://angular-ui.github.io/bootstrap/
   desc: Bootstrap components rewritten in AngularJS by the AngularUI team.

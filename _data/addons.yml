@@ -10,6 +10,10 @@
   url: https://github.com/eternicode/bootstrap-datepicker
   desc: A flexible datepicker and datepicker builder for Bootstrap.
 
+- name: Bootstrap + Typeahead.js
+  url: https://github.com/hyspace/typeahead.js-bootstrap3.less
+  desc: Bootstrap 3 styles for Twitter's typeahead.js using Bootstrap's mixins and variables.
+
 - name: Bootstrap Star rating
   url: http://plugins.krajee.com/star-rating
   desc: Star rating plugin for Bootstrap with fractional star fill and RTL input support.

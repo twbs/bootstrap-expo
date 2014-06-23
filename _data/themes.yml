@@ -38,9 +38,17 @@
   url: http://www.phpstrap.in
   desc: Tame the static templates and bring them to life with PHP.
 
+- name: Bootstrap Bay
+  url: http://bootstrapbay.com
+  desc: Marketplace for Bootstrap themes and templates.
+
 - name: Theme Armada
   url: http://themearmada.com/
   desc: Handcrafted responsive themes built with Bootstrap.
+
+- name: Prep Bootstrap
+  url: http://www.prepbootstrap.com
+  desc: Free Bootstrap themes, templates, and other widgets in complete code examples.
 
 - name: Bootstrap Made
   url: http://bootstrapmade.com
