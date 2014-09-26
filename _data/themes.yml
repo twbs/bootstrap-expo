@@ -1,3 +1,7 @@
+- name: ThemeForest
+  url: http://themeforest.net/tags/bootstrap
+  desc: Bootstrap templates from ThemeForest, a marketplace for premium themes and templates.
+
 - name: Roots
   url: http://roots.io
   desc: Make better themes with HTML5 Boilerplate, Bootstrap, and Grunt.
