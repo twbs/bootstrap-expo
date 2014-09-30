@@ -300,6 +300,7 @@ h1, h2, h3 {
 .entry-thumb img {
   display: block;
   width: 100%;
+  border: 1px solid #fff;
   border-radius: 3px;
   transition: opacity .2s linear;
 }
