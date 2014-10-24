@@ -1,5 +1,5 @@
 # Dependencies
-pygments:         false
+highlighter:      false
 
 
 # Permalinks
