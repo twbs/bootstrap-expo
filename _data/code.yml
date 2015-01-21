@@ -41,3 +41,7 @@
 - name: FluentBootstrap
   url: http://fluentbootstrap.com
   desc: Provides extensions, helper classes, model binding, and other goodies to help you use Bootstrap from .NET code.
+
+- name: Bootstrap Kickstart
+  url: https://github.com/micromata/bootstrap-kickstart
+  desc: Helps you with the creation of Bootstrap themes and sites by providing a file structure with focus on maintainibilty and upgradability and a decent Grunt workflow.
