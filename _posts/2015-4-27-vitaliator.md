@@ -2,7 +2,7 @@
 layout: post
 title: "Vitaliator"
 slug: vitaliator
-source: https://https://www.vitaliator.com//
+source: https://https://www.vitaliator.com/
 date: 2015-4-27 00:00:00 -0700
 ---
 
