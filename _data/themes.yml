@@ -2,9 +2,9 @@
   url: http://themeforest.net/tags/bootstrap
   desc: Bootstrap templates from ThemeForest, a marketplace for premium themes and templates.
 
-- name: Roots
-  url: http://roots.io
-  desc: Make better themes with HTML5 Boilerplate, Bootstrap, and Grunt.
+- name: Sage
+  url: https://roots.io/sage/
+  desc: WordPress starter theme that uses gulp, Bower, and Bootstrap.
 
 - name: Jumpstart Themes
   url: http://jumpstartthemes.com
