@@ -29,3 +29,8 @@
 - name: Bootstrap Dialog
   url: https://github.com/nakupanda/bootstrap3-dialog
   desc: Make Bootstrap's default modal more monkey-friendly.
+
+- name: Bootstrap Print
+  url: https://github.com/Natshah/bootstrap-print
+  desc: Extend Bootstrap's grid system and columns for print media by controlling the size on printed pages.
+  
