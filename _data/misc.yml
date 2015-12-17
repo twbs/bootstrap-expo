@@ -13,3 +13,7 @@
 - name: Bootstrap 3 for Drupal
   url: https://www.drupal.org/project/bootstrap
   desc: Defacto Drupal theme integration for Bootstrap.
+
+- name: Bootstrap 4 PSD Template
+  url: http://hackerthemes.com/blog/bootstrap-4-psd-template/
+  desc: A PSD grid template to help mockup a Bootstrap project in Adobe Photoshop. Using Bootstrap 4 measurements. 
