@@ -12,8 +12,8 @@ exclude:          ["README.md"]
 paginate:         10
 encoding:         UTF-8
 future:           false
-name:             Bootstrap Expo
-url:              http://expo.getbootstrap.com
+name:             TTAGIT Blog
+url:              http://ttagit.com/blog
 
 
 # Links
