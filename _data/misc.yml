@@ -13,3 +13,7 @@
 - name: Bootstrap 3 for Drupal
   url: https://www.drupal.org/project/bootstrap
   desc: Defacto Drupal theme integration for Bootstrap.
+
+- name: Bootstrap Site Blueprints Volume II
+  url: https://www.packtpub.com/web-development/bootstrap-site-blueprints-volume-ii
+  desc: Maximize the potential of Bootstrap with a collection of real-world site projects for better, faster, more responsive web applications.
