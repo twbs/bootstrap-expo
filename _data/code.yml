@@ -10,10 +10,6 @@
   url: http://angular-ui.github.io/bootstrap/
   desc: Bootstrap components rewritten in AngularJS by the AngularUI team.
 
-- name: Dojo Bootstrap
-  url: http://dojobootstrap.com
-  desc: Bootstrap components rewritten as custom Dojo modules.
-
 - name: Start Bootstrap
   url: http://startbootstrap.com/
   desc: Free and open source templates and themes for Bootstrap.
@@ -45,3 +41,7 @@
 - name: Bootstrap Kickstart
   url: https://github.com/micromata/bootstrap-kickstart
   desc: Helps you with the creation of Bootstrap themes and sites by providing a file structure with focus on maintainibilty and upgradability and a decent Grunt workflow.
+  
+  - name: Mobirise Bootstrap Builder
+  url: https://mobirise.com/bootstrap-builder/
+  desc: Free, Bootstrap4-based website builder for Windows and Mac with a drag-n-drop GUI and big collection of pre-made site blocks.
