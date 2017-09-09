@@ -39,8 +39,12 @@
   desc: WordPress and Bootstrap themes.
 
 - name: PHPstrap.in
-  url: http://www.phpstrap.in
+  url: https://github.com/kktuax/PHPStrap
   desc: Tame the static templates and bring them to life with PHP.
+
+- name: Bootstrap Themes
+  url: http://bootstrapthemes.co
+  desc: Free high-quality Bootstrap themes, templates, and resources.
 
 - name: Bootstrap Bay
   url: http://bootstrapbay.com
