@@ -21,11 +21,6 @@ To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/
 + [https://twitter.com/mdo](https://twitter.com/mdo)
 + [https://github.com/mdo](https://github.com/mdo)
 
-**Nicole Bartelt**
-
-+ [https://twitter.com/nicolebartelt](https://twitter.com/nicolebartelt)
-+ [https://github.com/nicole](https://github.com/nicole)
-
 
 
 ## Copyright
