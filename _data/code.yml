@@ -2,9 +2,13 @@
   url: http://codecanyon.net
   desc: Bootstrap plugins and skins from CodeCanyon, the largest script and code marketplace on the web.
 
-- name: React Bootstrap
-  url: http://react-bootstrap.github.io/
-  desc: Bootstrap 3 components rebuilt with React.
+- name: React-Bootstrap
+  url: https://react-bootstrap.github.io/
+  desc: Bootstrap 3 components built with React.
+
+- name: reactstrap
+  url: https://reactstrap.github.io/
+  desc: Simple React Bootstrap 4 components.
 
 - name: UI Bootstrap
   url: http://angular-ui.github.io/bootstrap/
