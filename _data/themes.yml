@@ -36,7 +36,7 @@
 
 - name: RandThemes
   url: http://randthemes.com
-  desc: WordPress and Bootstrap themes.
+  desc: WordPress and Bootstrap themes.  
 
 - name: PHPstrap.in
   url: http://www.phpstrap.in
@@ -65,3 +65,7 @@
 - name: Bootstrap Zero
   url: http://bootstrapzero.com
   desc: Free starter and custom templates for Bootstrap.
+
+- name: Tophat Themes
+  url: https://themesguide.github.io/top-hat/dist/
+  desc: Stylish, open-source themes for Bootstrap.
