@@ -1,8 +1,8 @@
-# [Bootstrap Expo](http://expo.getbootstrap.com)
+# [Bootstrap Expo](https://expo.getbootstrap.com/)
 
-The Bootstrap Expo is a showcase of amazing and inspiring implementations of the [Bootstrap](http://getbootstrap.com) framework, curated by [@mdo](https://github.com/mdo).
+The Bootstrap Expo is a showcase of amazing and inspiring implementations of the [Bootstrap](https://getbootstrap.com/) framework, curated by [@mdo](https://github.com/mdo).
 
-Browse the entries at [http://expo.getbootstrap.com](http://expo.getbootstrap.com)!
+Browse the entries at [https://expo.getbootstrap.com/](https://expo.getbootstrap.com/)!
 
 
 
@@ -25,4 +25,4 @@ To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/
 
 ## Copyright
 
-Copyright 2014 Mark Otto. [Licensed under CC BY-NC-ND 4.0.](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Copyright 2014 Mark Otto. [Licensed under CC BY-NC-ND 4.0.](https://creativecommons.org/licenses/by-nc-nd/4.0/)

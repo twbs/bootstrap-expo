@@ -9,7 +9,7 @@ title: Resources
 <ul class="category-list">
 {% for addons in site.data.addons %}
   <li>
-    <a href="{{ addons.url }}" target="_blank">{{ addons.name }}</a>
+    <a href="{{ addons.url }}" rel="noopener" target="_blank">{{ addons.name }}</a>
     <span class="resource-description">{{ addons.desc }}</span>
   </li>
 {% endfor %}
@@ -19,7 +19,7 @@ title: Resources
 <ul class="category-list">
 {% for showcases in site.data.showcases %}
   <li>
-    <a href="{{ showcases.url }}" target="_blank">{{ showcases.name }}</a>
+    <a href="{{ showcases.url }}" rel="noopener" target="_blank">{{ showcases.name }}</a>
     <span class="resource-description">{{ showcases.desc }}</span>
   </li>
 {% endfor %}
@@ -29,7 +29,7 @@ title: Resources
 <ul class="category-list">
 {% for themes in site.data.themes %}
   <li>
-    <a href="{{ themes.url }}" target="_blank">{{ themes.name }}</a>
+    <a href="{{ themes.url }}" rel="noopener" target="_blank">{{ themes.name }}</a>
     <span class="resource-description">{{ themes.desc }}</span>
   </li>
 {% endfor %}
@@ -39,7 +39,7 @@ title: Resources
 <ul class="category-list">
 {% for code in site.data.code %}
   <li>
-    <a href="{{ code.url }}" target="_blank">{{ code.name }}</a>
+    <a href="{{ code.url }}" rel="noopener" target="_blank">{{ code.name }}</a>
     <span class="resource-description">{{ code.desc }}</span>
   </li>
 {% endfor %}
@@ -49,7 +49,7 @@ title: Resources
 <ul class="category-list">
 {% for misc in site.data.misc %}
   <li>
-    <a href="{{ misc.url }}" target="_blank">{{ misc.name }}</a>
+    <a href="{{ misc.url }}" rel="noopener" target="_blank">{{ misc.name }}</a>
     <span class="resource-description">{{ misc.desc }}</span>
   </li>
 {% endfor %}

@@ -8,6 +8,7 @@ permalink:        pretty
 plugins:
   - jekyll-feed
   - jekyll-paginate
+  - jekyll-redirect-from
   - jekyll-sitemap
 
 sass:
@@ -27,11 +28,11 @@ encoding:         UTF-8
 future:           false
 name:             Bootstrap Expo
 description:      Beautiful and inspiring uses of Bootstrap
-url:              http://expo.getbootstrap.com
+url:              https://expo.getbootstrap.com
 
 # Links
 expo_repo:        https://github.com/twbs/bootstrap-expo/
 expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
 
-docs:             http://getbootstrap.com
-blog:             http://blog.getbootstrap.com
+docs:             https://getbootstrap.com
+blog:             https://blog.getbootstrap.com
