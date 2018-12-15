@@ -36,7 +36,7 @@
 
 - name: RandThemes
   url: http://randthemes.com
-  desc: WordPress and Bootstrap themes.  
+  desc: WordPress and Bootstrap themes.
 
 - name: PHPstrap.in
   url: http://www.phpstrap.in
