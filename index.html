@@ -1,11 +1,51 @@
 ---
 layout: default
 title: "Home"
+redirect_from:
+  - /2012/02/02/adoptahydrant/
+  - /2012/09/26/kippt/
+  - /2013/02/08/soundready/
+  - /2013/02/12/jetstrap/
+  - /2013/02/16/synco/
+  - /2013/02/19/easel/
+  - /2013/03/16/pulse/
+  - /2013/04/25/easybring/
+  - /2013/04/04/yasound/
+  - /2013/04/08/krunch/
+  - /2013/04/22/kippt-developers/
+  - /2013/06/21/inc/
+  - /2013/08/08/localcrime/
+  - /2013/09/13/kippt/
+  - /2014/02/03/playboard/
+  - /2014/06/23/selective-few/
+  - /2014/09/20/pixtriks/
+  - /2014/09/26/nod/
+  - /2014/10/08/sculpt-media/
+  - /2014/10/10/pixelapse/
+  - /2014/10/17/relay-foods/
+  - /2014/10/24/navdy/
+  - /2014/10/27/totez-game/
+  - /2014/10/29/lyft/
+  - /2014/11/17/open-projects-pixelapse/
+  - /2014/12/15/ashton-snook/
+  - /2014/12/16/phpaste/
+  - /2014/12/30/many-rivers/
+  - /2015/01/15/fluc/
+  - /2015/03/03/haltbox/
+  - /2015/04/02/all-about-david/
+  - /2015/04/10/selective-few/
+  - /2015/04/15/avery-and-austin/
+  - /2015/04/24/egelnick-and-webb/
+  - /2015/06/03/ing-world/
+  - /2015/06/25/vibrant/
+  - /2015/07/03/nanamee/
+  - /2015/07/16/maple/
+  - /2015/08/17/anakin/
 ---
 
 {% for post in paginator.posts %}
   <div class="entry">
-    <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" target="_blank">
+    <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" rel="noopener" target="_blank">
       {{ post.content }}
       <span class="icon icon-forward entry-icon"></span>
     </a>

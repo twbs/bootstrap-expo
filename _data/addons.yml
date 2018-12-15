@@ -1,5 +1,5 @@
 - name: Bootstrap Select
-  url: https://github.com/silviomoreto/bootstrap-select
+  url: https://github.com/snapappointments/bootstrap-select
   desc: A custom select menu for Bootstrap using the provided button dropdowns.
 
 - name: Bootstrap File input
@@ -7,7 +7,7 @@
   desc: Enhances the default file input with file preview for images and text, multiple selection, and more.
 
 - name: Bootstrap Datepicker
-  url: https://github.com/eternicode/bootstrap-datepicker
+  url: https://github.com/uxsolutions/bootstrap-datepicker
   desc: A flexible datepicker and datepicker builder for Bootstrap.
 
 - name: Bootstrap + Typeahead.js
@@ -19,7 +19,7 @@
   desc: Star rating plugin for Bootstrap with fractional star fill and RTL input support.
 
 - name: Bootstrap Tour
-  url: http://bootstraptour.com
+  url: http://bootstraptour.com/
   desc: Extend Bootstrap's popovers to easily tour visitors around your website.
 
 - name: Bootstrap Lightbox

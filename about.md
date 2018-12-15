@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-The Bootstrap Expo is a showcase of beautiful and inspirational sites using [Bootstrap](http://getbootstrap.com), the popular open source front-end framework. It's designed, built, and maintained by [@mdo](https://twitter.com/mdo), co-creator of Bootstrap, to show what's possible when using Bootstrap.
+The Bootstrap Expo is a showcase of beautiful and inspirational sites using [Bootstrap](https://getbootstrap.com/), the popular open source front-end framework. It's designed, built, and maintained by [@mdo](https://twitter.com/mdo), co-creator of Bootstrap, to show what's possible when using Bootstrap.
 
 
 ## Submissions
@@ -16,6 +16,6 @@ To submit a site suggestion, [open an issue](https://github.com/twbs/bootstrap-e
 
 ## About the site
 
-It's built with [Jekyll](http://jekyllrb.com), developed on [GitHub](https://github.com/twbs/bootstrap-expo), and is hosted on [GitHub Pages](https://pages.github.com).
+It's built with [Jekyll](https://jekyllrb.com/), developed on [GitHub](https://github.com/twbs/bootstrap-expo), and is hosted on [GitHub Pages](https://pages.github.com).
 
 <3

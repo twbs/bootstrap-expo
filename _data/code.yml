@@ -1,5 +1,5 @@
 - name: CodeCanyon
-  url: http://codecanyon.net
+  url: https://codecanyon.net/
   desc: Bootstrap plugins and skins from CodeCanyon, the largest script and code marketplace on the web.
 
 - name: React-Bootstrap
@@ -19,23 +19,23 @@
   desc: Bootstrap components rewritten as custom Dojo modules.
 
 - name: Start Bootstrap
-  url: http://startbootstrap.com/
+  url: https://startbootstrap.com/
   desc: Free and open source templates and themes for Bootstrap.
 
 - name: Bootply
-  url: http://bootply.com/new
+  url: https://www.bootply.com/new
   desc: Playground for building with Bootstrap, featuring examples, code sharing, and more.
 
 - name: Bootsnipp
-  url: http://bootsnipp.com
+  url: https://bootsnipp.com/
   desc: Design elements, playground, and code snippets for Bootstrap.
 
 - name: Devools
-  url: http://www.devools.com
+  url: https://www.devools.com/
   desc: Code snippets and tools to speed up your development time.
 
 - name: Pingendo
-  url: http://www.pingendo.com/
+  url: https://pingendo.com/
   desc: Desktop application for prototyping responsive web pages with Bootstrap.
 
 - name: GwtBootstrap
@@ -43,7 +43,7 @@
   desc: GWT wrapper for Bootstrap containing design templates, styles, and beautiful widgets.
 
 - name: FluentBootstrap
-  url: http://fluentbootstrap.com
+  url: http://fluentbootstrap.com/
   desc: Provides extensions, helper classes, model binding, and other goodies to help you use Bootstrap from .NET code.
 
 - name: Bootstrap Kickstart
