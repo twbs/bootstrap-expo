@@ -5,4 +5,4 @@ slug: smart-design
 source: http://smartdesignworldwide.com/
 ---
 
-<img src="/screenshots/smart-design.jpg">
+<img src="/assets/img/screenshots/smart-design.jpg">

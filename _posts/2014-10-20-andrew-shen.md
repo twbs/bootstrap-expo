@@ -6,4 +6,4 @@ source: http://andrewshen.net/
 date: 2014-10-20 00:15:00 -0700
 ---
 
-<img src="/screenshots/andrew-shen.jpg">
+<img src="/assets/img/screenshots/andrew-shen.jpg">

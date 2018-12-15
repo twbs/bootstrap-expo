@@ -5,4 +5,4 @@ slug: localcrime
 source: http://www.localcrimeapp.com/
 ---
 
-<img src="/screenshots/localcrime.jpg">
+<img src="/assets/img/screenshots/localcrime.jpg">

@@ -5,4 +5,4 @@ slug: adoptahydrant
 source: http://adoptahydrant.com
 ---
 
-<img src="/screenshots/adoptahydrant.jpg">
+<img src="/assets/img/screenshots/adoptahydrant.jpg">

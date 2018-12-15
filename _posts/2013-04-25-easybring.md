@@ -5,4 +5,4 @@ slug: easebring
 source: https://www.easybring.com/en
 ---
 
-<img src="/screenshots/easybring.jpg">
+<img src="/assets/img/screenshots/easybring.jpg">

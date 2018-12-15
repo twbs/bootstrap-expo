@@ -6,4 +6,4 @@ source: http://electricpulp.com
 date: 2014-12-19 00:00:00 -0700
 ---
 
-<img src="/screenshots/electric-pulp.jpg">
+<img src="/assets/img/screenshots/electric-pulp.jpg">

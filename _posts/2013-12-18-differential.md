@@ -5,4 +5,4 @@ slug: differential
 source: http://differential.io/
 ---
 
-<img src="/screenshots/differential.jpg">
+<img src="/assets/img/screenshots/differential.jpg">

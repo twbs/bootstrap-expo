@@ -6,4 +6,4 @@ source: http://thespaces.com/
 date: 2015-7-7 00:00:00 -0700
 ---
 
-<img src="/screenshots/the-spaces.jpg">
+<img src="/assets/img/screenshots/the-spaces.jpg">

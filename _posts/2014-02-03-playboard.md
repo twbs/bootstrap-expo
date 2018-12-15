@@ -5,4 +5,4 @@ slug: playboard
 source: http://playboard.me/
 ---
 
-<img src="/screenshots/playboard.jpg">
+<img src="/assets/img/screenshots/playboard.jpg">

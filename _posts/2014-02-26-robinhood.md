@@ -5,4 +5,4 @@ slug: robinhood
 source: http://www.robinhood.com
 ---
 
-<img src="/screenshots/robinhood.jpg">
+<img src="/assets/img/screenshots/robinhood.jpg">

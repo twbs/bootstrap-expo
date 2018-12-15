@@ -5,4 +5,4 @@ slug: selective-few
 source: http://www.selectivefew.com
 ---
 
-<img src="/screenshots/selective-few.jpg">
+<img src="/assets/img/screenshots/selective-few.jpg">

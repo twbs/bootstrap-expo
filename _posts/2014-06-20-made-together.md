@@ -5,4 +5,4 @@ slug: made-together
 source: http://www.madetogether.com.au
 ---
 
-<img src="/screenshots/made-together.jpg">
+<img src="/assets/img/screenshots/made-together.jpg">

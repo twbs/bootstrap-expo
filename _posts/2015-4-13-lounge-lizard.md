@@ -6,4 +6,4 @@ source: http://www.loungelizard.com/
 date: 2015-4-13 00:00:00 -0700
 ---
 
-<img src="/screenshots/lounge-lizard.jpg">
+<img src="/assets/img/screenshots/lounge-lizard.jpg">

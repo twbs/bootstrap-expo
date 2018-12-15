@@ -5,4 +5,4 @@ slug: fortrabbit
 source: http://fortrabbit.com
 ---
 
-<img src="/screenshots/fortrabbit.jpg">
+<img src="/assets/img/screenshots/fortrabbit.jpg">

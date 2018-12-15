@@ -5,4 +5,4 @@ slug: riot
 source: http://riotdesign.eu/en/
 ---
 
-<img src="/screenshots/riot.jpg">
+<img src="/assets/img/screenshots/riot.jpg">

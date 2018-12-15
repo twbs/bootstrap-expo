@@ -5,4 +5,4 @@ slug: wildphotos
 source: http://wildphotos.org.uk/
 ---
 
-<img src="/screenshots/wildphotos.jpg">
+<img src="/assets/img/screenshots/wildphotos.jpg">

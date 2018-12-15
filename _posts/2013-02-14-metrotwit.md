@@ -5,4 +5,4 @@ slug: metrotwit
 source: http://metrotwit.com
 ---
 
-<img src="/screenshots/metrotwit.jpg">
+<img src="/assets/img/screenshots/metrotwit.jpg">

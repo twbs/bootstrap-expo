@@ -6,4 +6,4 @@ source: http://paulvanoijen.com/
 date: 2015-2-18 00:00:00 -0700
 ---
 
-<img src="/screenshots/paul-van-oijen.jpg">
+<img src="/assets/img/screenshots/paul-van-oijen.jpg">

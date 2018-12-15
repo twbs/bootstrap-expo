@@ -6,4 +6,4 @@ source: https://www.selectivefew.com/
 date: 2015-4-10 00:00:00 -0700
 ---
 
-<img src="/screenshots/selective-few-2.jpg">
+<img src="/assets/img/screenshots/selective-few-2.jpg">

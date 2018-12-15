@@ -5,4 +5,4 @@ slug: crafting-type
 source: http://craftingtype.com/
 ---
 
-<img src="/screenshots/crafting-type.jpg">
+<img src="/assets/img/screenshots/crafting-type.jpg">

@@ -1,3 +1,6 @@
 .DS_Store
-_gh_pages/
 .ruby-version
+/.sass-cache/
+/_gh_pages/
+/netlify.toml
+/netlifyctl-debug.log
