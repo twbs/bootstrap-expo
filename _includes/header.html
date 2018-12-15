@@ -6,11 +6,11 @@
 <meta name="author" content="Mark Otto, Nicole Bartelt">
 
 <title>
-  {% if page.title == "Home" %}
+  {%- if page.title == "Home" -%}
     Bootstrap Expo
-  {% else if %}
+  {%- else -%}
     {{ page.title }} &middot; Bootstrap Expo
-  {% endif %}
+  {%- endif -%}
 </title>
 
 <link href="/css/bootstrap-expo.css" rel="stylesheet">
