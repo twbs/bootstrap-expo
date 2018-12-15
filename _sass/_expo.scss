@@ -268,12 +268,12 @@ h1, h2, h3 {
 
 .entry-icon {
   position: absolute;
+  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' fill-rule='evenodd' clip-rule='evenodd' image-rendering='optimizeQuality' shape-rendering='geometricPrecision' text-rendering='geometricPrecision' viewBox='0 0 640 640'%3E%3Cpath fill='%23fff' d='M640.012 320L385.151 577.448V449.191C223.988 415.801 96.675 452.604-.011 575.193c16.784-252.109 189.002-373.776 385.162-381.831V62.553l254.861 257.448z'/%3E%3C/svg%3E");
   display: block;
-  text-align: center;
+  margin: 0 auto;
   top: 50%;
   left: 0;
   right: 0;
-  font-size: 6rem;
   color: #fff;
   text-shadow: 0 0 3rem rgba(0,0,0,.15);
   opacity: 0;
