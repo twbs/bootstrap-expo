@@ -5,4 +5,4 @@ slug: kippt-developers
 source: http://developers.kippt.com/
 ---
 
-<img src="/screenshots/kippt-developers.jpg">
+<img src="/assets/img/screenshots/kippt-developers.jpg">

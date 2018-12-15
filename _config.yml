@@ -10,9 +10,18 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+sass:
+    style:        compressed
+
 # Settings
 destination:      ./_gh_pages
-exclude:          ["README.md"]
+exclude:
+  - .sass-cache
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - netlify.toml
+  - README.md
 paginate:         10
 encoding:         UTF-8
 future:           false

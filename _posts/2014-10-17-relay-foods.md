@@ -6,4 +6,4 @@ source: https://www.relayfoods.com/welcome
 date: 2014-10-17 00:00:00 -0700
 ---
 
-<img src="/screenshots/relay-foods.jpg">
+<img src="/assets/img/screenshots/relay-foods.jpg">

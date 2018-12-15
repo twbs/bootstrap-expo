@@ -5,4 +5,4 @@ slug: athey-creek
 source: http://atheycreek.com
 ---
 
-<img src="/screenshots/athey-creek.jpg">
+<img src="/assets/img/screenshots/athey-creek.jpg">

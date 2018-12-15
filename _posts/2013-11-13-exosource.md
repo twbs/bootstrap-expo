@@ -5,4 +5,4 @@ slug: exosource
 source: http://www.exosource.com/en/
 ---
 
-<img src="/screenshots/exosource.jpg">
+<img src="/assets/img/screenshots/exosource.jpg">

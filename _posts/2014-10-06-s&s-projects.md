@@ -6,4 +6,4 @@ source: http://www.ssprojects.dk/
 date: 2014-10-03 00:00:00 -0700
 ---
 
-<img src="/screenshots/s&s-projects.jpg">
+<img src="/assets/img/screenshots/s&s-projects.jpg">

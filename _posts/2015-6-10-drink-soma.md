@@ -6,4 +6,4 @@ source: https://www.drinksoma.com/
 date: 2015-6-10 00:00:00 -0700
 ---
 
-<img src="/screenshots/drink-soma.jpg">
+<img src="/assets/img/screenshots/drink-soma.jpg">

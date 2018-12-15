@@ -5,4 +5,4 @@ slug: sean-halpin
 source: http://seanhalpin.io
 ---
 
-<img src="/screenshots/sean-halpin.jpg">
+<img src="/assets/img/screenshots/sean-halpin.jpg">

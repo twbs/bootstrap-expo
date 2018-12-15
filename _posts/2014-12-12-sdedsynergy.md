@@ -6,4 +6,4 @@ source: http://sdedsynergy.org/
 date: 2014-12-12 00:00:00 -0700
 ---
 
-<img src="/screenshots/education-synergy-alliance.jpg">
+<img src="/assets/img/screenshots/education-synergy-alliance.jpg">

@@ -5,4 +5,4 @@ slug: soundready
 source: http://soundready.fm
 ---
 
-<img src="/screenshots/soundready.jpg">
+<img src="/assets/img/screenshots/soundready.jpg">

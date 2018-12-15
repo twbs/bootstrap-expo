@@ -5,4 +5,4 @@ slug: angry
 source: http://angrybirds.tumblr.com/
 ---
 
-<img src="/screenshots/angry-birds-star-wars.jpg">
+<img src="/assets/img/screenshots/angry-birds-star-wars.jpg">

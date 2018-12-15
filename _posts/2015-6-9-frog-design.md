@@ -6,4 +6,4 @@ source: http://www.frogdesign.com/
 date: 2015-6-9 00:00:00 -0700
 ---
 
-<img src="/screenshots/frog-design.jpg">
+<img src="/assets/img/screenshots/frog-design.jpg">

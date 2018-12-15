@@ -6,4 +6,4 @@ source: http://boutique.centrepompidou.fr
 date: 2014-10-17 00:15:00 -0700
 ---
 
-<img src="/screenshots/boutique-du-centre-pompidou.jpg">
+<img src="/assets/img/screenshots/boutique-du-centre-pompidou.jpg">

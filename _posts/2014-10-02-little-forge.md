@@ -6,4 +6,4 @@ source: http://littleforge.com/
 date: 2014-10-02 00:15:00 -0700
 ---
 
-<img src="/screenshots/little-forge.jpg">
+<img src="/assets/img/screenshots/little-forge.jpg">

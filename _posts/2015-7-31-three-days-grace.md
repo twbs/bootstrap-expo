@@ -6,4 +6,4 @@ source: http://threedaysgrace.com/
 date: 2015-7-31 00:00:00 -0700
 ---
 
-<img src="/screenshots/three-days-grace.jpg">
+<img src="/assets/img/screenshots/three-days-grace.jpg">

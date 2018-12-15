@@ -5,4 +5,4 @@ slug: engine-yard
 source: https://www.engineyard.com
 ---
 
-<img src="/screenshots/engine-yard.jpg">
+<img src="/assets/img/screenshots/engine-yard.jpg">

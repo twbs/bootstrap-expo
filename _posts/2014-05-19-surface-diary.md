@@ -5,4 +5,4 @@ slug: surface-diary
 source: http://www.surfacediary.net
 ---
 
-<img src="/screenshots/surface-diary.jpg">
+<img src="/assets/img/screenshots/surface-diary.jpg">
