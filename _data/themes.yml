@@ -65,3 +65,7 @@
 - name: Bootstrap Zero
   url: http://bootstrapzero.com
   desc: Free starter and custom templates for Bootstrap.
+
+- name: Tophat Themes
+  url: https://themesguide.github.io/top-hat/dist/
+  desc: Stylish, open-source themes for Bootstrap.
