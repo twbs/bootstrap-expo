@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Echo Capital Group"
 slug: echo-capital
 source: http://www.echocapital.com

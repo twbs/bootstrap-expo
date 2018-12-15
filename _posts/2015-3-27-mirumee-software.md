@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Mirumee Software"
 slug: mirumee-software
 source: https://mirumee.com/

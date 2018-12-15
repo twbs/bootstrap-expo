@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "TOTEZ"
 slug: totez-game
 source: http://totezgame.com/

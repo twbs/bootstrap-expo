@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "DevRocket"
 slug: dev-rocket
 source: http://devrocket.uiparade.com/

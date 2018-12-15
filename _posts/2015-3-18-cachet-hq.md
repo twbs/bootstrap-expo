@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "CachetHQ"
 slug: cachet-hq
 source: https://cachethq.io/

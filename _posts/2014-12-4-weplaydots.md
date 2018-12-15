@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Dots"
 slug: dots
 source: http://www.weplaydots.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Help Scout"
 slug: help-scout
 source: http://www.helpscout.net/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Jesper Dahlqvist"
 slug: jesper-dahlqvist
 source: http://www.jespr.se/

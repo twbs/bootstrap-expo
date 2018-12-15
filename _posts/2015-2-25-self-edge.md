@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Self Edge"
 slug: self-edge
 source: http://www.selfedge.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Sculpt Media"
 slug: sculpt-media
 source: http://www.sculptmedia.ae/en/site

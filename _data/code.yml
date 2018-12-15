@@ -37,7 +37,7 @@
 - name: GwtBootstrap
   url: https://github.com/gwtbootstrap3/gwtbootstrap3
   desc: GWT wrapper for Bootstrap containing design templates, styles, and beautiful widgets.
-  
+
 - name: FluentBootstrap
   url: http://fluentbootstrap.com
   desc: Provides extensions, helper classes, model binding, and other goodies to help you use Bootstrap from .NET code.

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "GeekWire"
 slug: geekwire
 source: http://www.geekwire.com/

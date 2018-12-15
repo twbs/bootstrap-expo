@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "One Page Awards"
 slug: one-page-awards
 source: http://www.onepageawards.com/

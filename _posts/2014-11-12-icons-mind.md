@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Icons Mind"
 slug: icons-mind
 source: http://www.iconsmind.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Rebecca Made"
 slug: rebecca-made
 source: http://rebeccamade.com/

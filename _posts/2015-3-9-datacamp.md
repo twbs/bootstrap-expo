@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "DataCamp"
 slug: datacamp
 source: https://www.datacamp.com/

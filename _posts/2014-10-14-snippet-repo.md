@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Snippet Repo"
 slug: snippet-repo
 source: http://snippetrepo.com/

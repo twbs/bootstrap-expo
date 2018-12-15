@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Latitude Supply Co"
 slug: latitude-supply-co
 source: http://latitudesupplyco.com/

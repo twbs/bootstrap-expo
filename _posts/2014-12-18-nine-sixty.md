@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Nine Sixty"
 slug: nine-sixty
 source: http://www.ninesixty.co.uk

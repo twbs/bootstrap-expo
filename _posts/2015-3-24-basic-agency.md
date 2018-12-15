@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Basic Agency"
 slug: basic-agency
 source: http://www.basicagency.com/

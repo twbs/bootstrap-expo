@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Snapshot"
 slug: snapshot
 source: https://snapshot.edmodo.com/

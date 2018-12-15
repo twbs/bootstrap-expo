@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Relay Foods"
 slug: relay-foods
 source: https://www.relayfoods.com/welcome

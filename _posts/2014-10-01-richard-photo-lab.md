@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Richard Photo Lab"
 slug: richard-photo-lab
 source: http://www.richardphotolab.com/

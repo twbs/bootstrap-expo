@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Over Clothing"
 slug: over-clothing
 source: http://overclothing.com/

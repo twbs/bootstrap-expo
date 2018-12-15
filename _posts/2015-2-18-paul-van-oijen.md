@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Paul Van Oijen"
 slug: paul-van-oijen
 source: http://paulvanoijen.com/

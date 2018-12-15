@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Creative Tim"
 slug: creative-tim
 source: http://www.creative-tim.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Selective Few"
 slug: selective-few-2
 source: https://www.selectivefew.com/

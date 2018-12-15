@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Vandré Leal Cândido"
 slug: vandre-leal
 source: http://www.vandreleal.net/

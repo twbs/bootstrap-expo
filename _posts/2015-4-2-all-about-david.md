@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "All About David"
 slug: all-about-david
 source: http://www.allaboutdavid.fr/

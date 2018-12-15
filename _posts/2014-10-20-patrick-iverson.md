@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Patrick Iverson"
 slug: patrick-iverson
 source: http://patrickiverson.com

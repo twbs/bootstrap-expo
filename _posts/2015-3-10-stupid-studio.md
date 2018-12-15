@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Stupid Studio"
 slug: stupid-studio
 source: https://stupid-studio.com/

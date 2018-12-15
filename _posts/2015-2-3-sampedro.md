@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Sampedro"
 slug: sampedro
 source: http://sampedro.dk/en/

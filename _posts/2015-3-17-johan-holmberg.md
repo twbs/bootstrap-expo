@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Johan Holmberg"
 slug: johan-holmberg
 source: http://www.johanholmberg.se/

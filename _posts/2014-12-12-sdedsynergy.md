@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Education Synergy Alliance"
 slug: sdedsynergy
 source: http://sdedsynergy.org/

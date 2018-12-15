@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Little Forge"
 slug: little-forge
 source: http://littleforge.com/

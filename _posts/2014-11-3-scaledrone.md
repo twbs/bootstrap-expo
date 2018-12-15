@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "ScaleDrone"
 slug: scaledrone
 source: https://www.scaledrone.com

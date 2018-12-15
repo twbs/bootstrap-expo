@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Democratic Alliance"
 slug: democratic alliance
 source: http://www.da.org.za/

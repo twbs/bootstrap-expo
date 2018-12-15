@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Snapcard"
 slug: snapcard
 source: https://www.snapcard.io/

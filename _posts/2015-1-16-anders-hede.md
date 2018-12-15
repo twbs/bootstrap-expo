@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Anders Hede Jensen"
 slug: anders-hede
 source: http://andershede.com/

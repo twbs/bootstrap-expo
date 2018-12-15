@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Open Projects - Pixelapse"
 slug: open-projects-pixelapse
 source: https://www.pixelapse.com/explore

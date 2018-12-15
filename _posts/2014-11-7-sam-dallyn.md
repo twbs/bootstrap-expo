@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Sam Dallyn"
 slug: sam-dallyn
 source: http://www.samdallyn.co.uk

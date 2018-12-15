@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Five Minute Journal"
 slug: five-minute-journal
 source: http://app.fiveminutejournal.com/

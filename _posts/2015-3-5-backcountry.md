@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "backcountry"
 slug: backcountry
 source: http://www.backcountry.com

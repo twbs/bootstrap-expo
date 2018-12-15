@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Callens Clo"
 slug: callens-clo
 source: http://callens-clo.com/

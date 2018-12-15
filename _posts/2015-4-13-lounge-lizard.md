@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Lounge Lizard"
 slug: lounge-lizard
 source: http://www.loungelizard.com/

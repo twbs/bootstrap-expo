@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "ServerHub"
 slug: serverhub
 source: http://serverhub.com/

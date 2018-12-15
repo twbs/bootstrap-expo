@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Pixelapse"
 slug: pixelapse
 source: https://www.pixelapse.com/

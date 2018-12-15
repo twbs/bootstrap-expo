@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Mika Mobile"
 slug: mika-mobile
 source: http://www.mikamobile.com

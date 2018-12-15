@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Stockflare"
 slug: stockflare
 source: https://www.stockflare.com/landing

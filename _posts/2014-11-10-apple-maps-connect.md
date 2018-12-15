@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Apple Maps Connect"
 slug: apple-maps-connect
 source: https://mapsconnect.apple.com/

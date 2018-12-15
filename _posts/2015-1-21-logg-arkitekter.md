@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Logg Arkitekter"
 slug: logg-arkitekter
 source: http://www.logg.no/

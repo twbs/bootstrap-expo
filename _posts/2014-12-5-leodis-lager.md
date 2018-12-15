@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Leodis Lager"
 slug: leodis-lager
 source: http://www.leodislager.com/

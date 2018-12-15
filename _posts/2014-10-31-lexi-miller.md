@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Lexi Miller"
 slug: lexi-miller
 source: http://leximiller.com/

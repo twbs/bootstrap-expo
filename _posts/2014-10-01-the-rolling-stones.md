@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "The Rolling Stones"
 slug: the-rolling-stones
 source: http://www.rollingstones.com/

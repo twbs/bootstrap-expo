@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Instacart"
 slug: instacart
 source: https://www.instacart.com/

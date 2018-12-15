@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Xcode for Designers"
 slug: xcode-for-designers
 source: http://learn.scotthurff.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Tobias Haeusler"
 slug: tobias-haeusler
 source: http://tobiashaeusler.de/

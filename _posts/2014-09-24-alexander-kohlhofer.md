@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Alexander Kohlhofer"
 slug: alexander-kohlhofer
 source: http://kohlhofer.com/

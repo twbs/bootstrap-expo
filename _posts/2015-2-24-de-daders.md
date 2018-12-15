@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "De Daders"
 slug: de-daders
 source: http://dedaders.com/

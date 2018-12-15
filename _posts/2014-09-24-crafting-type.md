@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Crafting Type"
 slug: crafting-type
 source: http://craftingtype.com/

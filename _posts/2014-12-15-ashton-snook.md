@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Ashton Snook"
 slug: ashton-snook
 source: http://www.ashtonsnook.com/

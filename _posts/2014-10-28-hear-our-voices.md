@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Hear Our Voices"
 slug: hear-our-voices
 source: http://plan-international.org/hearourvoices/

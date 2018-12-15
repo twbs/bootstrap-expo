@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Kameleon"
 slug: kameleon
 source: http://www.kameleon.pics/

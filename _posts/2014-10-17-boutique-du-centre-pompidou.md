@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Boutique du Centre Pompidou"
 slug: boutique-du-centre-pompidou
 source: http://boutique.centrepompidou.fr

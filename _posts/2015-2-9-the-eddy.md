@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "The Eddy"
 slug: the-eddy
 source: http://www.theeddynyc.com/

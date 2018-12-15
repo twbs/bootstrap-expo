@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Rotten Tomatoes"
 slug: rotten-tomatoes
 source: http://www.rottentomatoes.com/

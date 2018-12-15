@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Brault & Barnes Design"
 slug: brault-barnes-design
 source: http://braultbarnesdesign.com/

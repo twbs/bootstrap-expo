@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Teamgeek"
 slug: teamgeek
 source: http://www.teamgeek.co.za/

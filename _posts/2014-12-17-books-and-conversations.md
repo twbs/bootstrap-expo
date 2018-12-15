@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Books & Conversations"
 slug: books-and-conversations
 source: http://booksandconversations.com/

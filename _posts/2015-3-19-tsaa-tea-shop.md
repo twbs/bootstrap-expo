@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Tsaa Tea Shop"
 slug: tsaa-tea-shop
 source: http://www.tsaateashop.com/

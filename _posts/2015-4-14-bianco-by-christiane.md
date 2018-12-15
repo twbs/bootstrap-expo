@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Bianco By Christiane"
 slug: bianco-by-christiane
 source: http://christiane.bianco.com/

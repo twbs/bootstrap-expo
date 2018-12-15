@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Electric Pulp"
 slug: electric-pulp
 source: http://electricpulp.com

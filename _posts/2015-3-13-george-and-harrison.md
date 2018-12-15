@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "George & Harrison"
 slug: george-and-harrison
 source: http://www.georgeandharrison.nl/

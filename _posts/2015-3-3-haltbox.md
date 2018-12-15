@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Haltbox"
 slug: haltbox
 source: https://www.haltbox.com/

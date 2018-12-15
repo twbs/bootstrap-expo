@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Charlotte Observer"
 slug: charlotte-observer
 source: http://www.charlotteobserver.com/

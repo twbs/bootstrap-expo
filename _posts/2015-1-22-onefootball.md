@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Onefootball"
 slug: onefootball
 source: http://www.onefootball.com/

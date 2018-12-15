@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "The Jamieson Consultancy"
 slug: the-jamieson-consultancy
 source: http://www.tjcuk.co.uk/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "The Conference"
 slug: the-conference
 source: http://2015.theconference.se/

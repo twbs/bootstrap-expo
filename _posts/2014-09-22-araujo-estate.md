@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Araujo Estate"
 slug: araujo
 source: http://www.araujoestate.com/

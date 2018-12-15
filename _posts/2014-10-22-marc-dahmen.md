@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Marc Anton Dahmen"
 slug: marc=dahmen
 source: http://marcdahmen.de/

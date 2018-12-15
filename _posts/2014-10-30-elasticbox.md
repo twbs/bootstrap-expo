@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "ElasticBox"
 slug: elasticbox
 source: https://elasticbox.com/

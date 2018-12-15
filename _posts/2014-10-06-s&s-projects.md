@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "S&S Projects"
 slug: s&s-projects
 source: http://www.ssprojects.dk/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "StatsPanda"
 slug: stats-panda
 source: http://www.statspanda.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "M•Power Yoga Studio"
 slug: m-power-yoga-studio
 source: http://mpoweryogastudio.com

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Many Rivers"
 slug: many-rivers
 source: http://www.manyrivers.fr/

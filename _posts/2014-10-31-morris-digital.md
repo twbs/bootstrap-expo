@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Morris Digital"
 slug: morris-digital
 source: http://morris-digital.co.uk/

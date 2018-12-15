@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "United Strands"
 slug: united-strands
 source: http://unitedstrands.com/

@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "NeuBible"
 slug: neubible
 source: http://www.neubible.co/

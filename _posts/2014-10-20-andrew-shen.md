@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Andrew Shen"
 slug: andrew-shen
 source: http://andrewshen.net/

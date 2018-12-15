@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Briefing"
 slug: briefing
 source: http://briefi.ng/

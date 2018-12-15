@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Socialist"
 slug: socialist
 source: http://www.sociali.st/

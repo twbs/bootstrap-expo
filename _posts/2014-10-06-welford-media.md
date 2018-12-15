@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Welford Media"
 slug: welford-media
 source: http://welfordmedia.co.uk/

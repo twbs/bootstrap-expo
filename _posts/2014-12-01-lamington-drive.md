@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Lamington Drive"
 slug: lamington-drive
 source: http://lamingtondrive.com

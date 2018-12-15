@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "thesign"
 slug: thesign
 source: http://www.thesign.pt/

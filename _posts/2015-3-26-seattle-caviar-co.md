@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Seattle Caviar Co."
 slug: seattle-caviar-co
 source: http://caviar.com/

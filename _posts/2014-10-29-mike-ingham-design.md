@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Mike Ingham Design"
 slug: mike-ingham-design
 source: http://www.mikeinghamdesign.com/

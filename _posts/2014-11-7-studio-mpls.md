@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Studio MPLS"
 slug: studio-mpls
 source: http://studiompls.com/

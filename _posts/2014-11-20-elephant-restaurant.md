@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: "Éléphant - Restaurant"
 slug: elephant-restaurant
 source: http://resto-elephant.com/
