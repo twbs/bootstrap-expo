@@ -15,7 +15,7 @@
   desc: Bootstrap components rewritten in AngularJS by the AngularUI team.
 
 - name: Dojo Bootstrap
-  url: http://dojobootstrap.com
+  url: http://xsokev.github.io/Dojo-Bootstrap/
   desc: Bootstrap components rewritten as custom Dojo modules.
 
 - name: Start Bootstrap
