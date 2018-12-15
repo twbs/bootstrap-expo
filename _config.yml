@@ -1,10 +1,14 @@
 # Dependencies
 highlighter:      false
 
-
 # Permalinks
 permalink:        pretty
 
+# Gems
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
 
 # Settings
 destination:      ./_gh_pages
@@ -13,8 +17,8 @@ paginate:         10
 encoding:         UTF-8
 future:           false
 name:             Bootstrap Expo
+description:      Beautiful and inspiring uses of Bootstrap
 url:              http://expo.getbootstrap.com
-
 
 # Links
 expo_repo:        https://github.com/twbs/bootstrap-expo/
