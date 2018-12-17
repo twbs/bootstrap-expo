@@ -49,3 +49,7 @@
 - name: Bootstrap Kickstart
   url: https://github.com/micromata/bootstrap-kickstart
   desc: Helps you with the creation of Bootstrap themes and sites by providing a file structure with focus on maintainibilty and upgradability and a decent Grunt workflow.
+
+- name: Froala Design Blocks
+  url: https://www.froala.com/design-blocks
+  desc: 170+ design blocks available in HTML5, Angular JS, ReactJS, VueJS, Photoshop and Sketch.
