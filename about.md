@@ -16,6 +16,6 @@ To submit a site suggestion, [open an issue](https://github.com/twbs/bootstrap-e
 
 ## About the site
 
-It's built with [Jekyll](https://jekyllrb.com/), developed on [GitHub](https://github.com/twbs/bootstrap-expo), and is hosted on [GitHub Pages](https://pages.github.com).
+It's built with [Jekyll](https://jekyllrb.com/), developed on [GitHub](https://github.com/twbs/bootstrap-expo), and is hosted on [GitHub Pages](https://pages.github.com/).
 
 <3
