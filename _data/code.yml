@@ -53,3 +53,7 @@
 - name: Froala Design Blocks
   url: https://www.froala.com/design-blocks
   desc: 170+ design blocks available in HTML5, Angular JS, ReactJS, VueJS, Photoshop and Sketch.
+
+- name: Themestr.app
+  url: https://themestr.app/
+  desc: Bootstrap theme builder and customizer.
