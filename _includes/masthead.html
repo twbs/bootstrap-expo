@@ -13,8 +13,7 @@
       <a class="nav-link{% if page.title == "Home" %} nav-link-active{% endif %}" href="/">Home</a>
     </li>
 
-    {%- assign pages_list = site.pages -%}
-    {%- for node in pages_list -%}
+    {%- for node in site.pages -%}
       {%- if node.title != null -%}
         {%- if node.layout == "page" -%}
           <li class="nav-item">
