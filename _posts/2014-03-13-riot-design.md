@@ -1,8 +1,10 @@
 ---
 layout: post
 title: "Riot Design"
-slug: riot
-source: http://riotdesign.eu/en/
+slug: riot-design
+source: https://riot.design/
+redirect_from:
+  - /2014/03/13/riot/
 ---
 
-<img src="/assets/img/screenshots/riot.jpg">
+<img src="/assets/img/screenshots/riot-design.jpg">

@@ -5,4 +5,4 @@ slug: araujo
 source: http://www.araujoestate.com/
 ---
 
-<img src="/assets/img/screenshots/araujo-estate.jpg">
+<img src="/assets/img/screenshots/araujo.jpg">
