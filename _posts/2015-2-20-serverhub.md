@@ -6,4 +6,4 @@ source: http://serverhub.com/
 date: 2015-2-20 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/serverhub.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/serverhub.jpg">

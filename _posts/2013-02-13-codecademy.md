@@ -5,4 +5,4 @@ slug: codecademy
 source: http://codecademy.com/
 ---
 
-<img src="/assets/img/screenshots/codecademy.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/codecademy.jpg">

@@ -5,4 +5,4 @@ slug: twitter-translation-center
 source: http://translate.twitter.com/
 ---
 
-<img src="/assets/img/screenshots/twitter-translation-center.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/twitter-translation-center.jpg">

@@ -5,4 +5,4 @@ slug: kingdom-rush
 source: http://www.kingdomrush.com/
 ---
 
-<img src="/assets/img/screenshots/kingdom-rush.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/kingdom-rush.jpg">

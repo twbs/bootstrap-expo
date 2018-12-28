@@ -7,4 +7,4 @@ redirect_from:
   - /2014/03/13/riot/
 ---
 
-<img src="/assets/img/screenshots/riot-design.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/riot-design.jpg">

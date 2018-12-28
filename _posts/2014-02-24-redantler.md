@@ -5,4 +5,4 @@ slug: redantler
 source: http://www.redantler.com/
 ---
 
-<img src="/assets/img/screenshots/redantler.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/redantler.jpg">

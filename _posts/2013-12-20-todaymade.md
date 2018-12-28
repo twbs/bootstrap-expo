@@ -5,4 +5,4 @@ slug: todaymade
 source: http://todaymade.com/
 ---
 
-<img src="/assets/img/screenshots/todaymade.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/todaymade.jpg">

@@ -6,4 +6,4 @@ source: http://www.cssawards.net/
 date: 2015-1-12 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/css-awards-2.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/css-awards-2.jpg">

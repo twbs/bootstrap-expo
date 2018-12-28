@@ -6,4 +6,4 @@ source: http://www.spotify-thedrop.com/
 date: 2015-9-9 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/spotify-the-drop.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/spotify-the-drop.jpg">

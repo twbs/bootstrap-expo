@@ -6,4 +6,4 @@ source: http://ouisurf.tv/
 date: 2015-3-2 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/ouisurf-tv.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/ouisurf-tv.jpg">

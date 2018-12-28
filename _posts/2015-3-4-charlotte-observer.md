@@ -6,4 +6,4 @@ source: http://www.charlotteobserver.com/
 date: 2015-3-4 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/charlotte-observer.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/charlotte-observer.jpg">

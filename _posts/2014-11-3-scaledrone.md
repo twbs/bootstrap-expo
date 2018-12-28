@@ -6,4 +6,4 @@ source: https://www.scaledrone.com/
 date: 2014-11-3 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/scaledrone.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/scaledrone.jpg">

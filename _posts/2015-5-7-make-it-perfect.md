@@ -6,4 +6,4 @@ source: http://www.makeitperfect.it/
 date: 2015-5-7 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/make-it-perfect.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/make-it-perfect.jpg">

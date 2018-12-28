@@ -6,4 +6,4 @@ source: http://snippetrepo.com/
 date: 2014-10-14 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/snippet-repo.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/snippet-repo.jpg">

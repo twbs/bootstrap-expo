@@ -6,4 +6,4 @@ source: http://lamingtondrive.com/
 date: 2014-12-01 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/lamington-drive.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/lamington-drive.jpg">

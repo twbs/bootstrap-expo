@@ -6,4 +6,4 @@ source: http://www.leodislager.com/
 date: 2014-12-5 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/leodis-lager.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/leodis-lager.jpg">

@@ -6,4 +6,4 @@ source: http://www.statspanda.com/
 date: 2015-1-14 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/stats-panda.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/stats-panda.jpg">

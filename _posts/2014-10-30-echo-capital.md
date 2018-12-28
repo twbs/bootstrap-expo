@@ -6,4 +6,4 @@ source: http://www.echocapital.com/
 date: 2014-10-30 00:15:00 -0700
 ---
 
-<img src="/assets/img/screenshots/echo-capital.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/echo-capital.jpg">

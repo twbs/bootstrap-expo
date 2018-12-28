@@ -5,4 +5,4 @@ slug: gathercontent
 source: http://gathercontent.com/
 ---
 
-<img src="/assets/img/screenshots/gathercontent.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/gathercontent.jpg">

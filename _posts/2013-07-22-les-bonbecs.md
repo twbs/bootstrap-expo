@@ -5,4 +5,4 @@ slug: les-bonbecs
 source: https://lesbonbecs.com/
 ---
 
-<img src="/assets/img/screenshots/les-bonbecs.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/les-bonbecs.jpg">

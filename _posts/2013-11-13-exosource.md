@@ -5,4 +5,4 @@ slug: exosource
 source: http://www.exosource.com/en/
 ---
 
-<img src="/assets/img/screenshots/exosource.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/exosource.jpg">

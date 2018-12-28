@@ -6,4 +6,4 @@ source: http://tarrylodge.com/
 date: 2015-5-13 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/tarry-lodge.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/tarry-lodge.jpg">

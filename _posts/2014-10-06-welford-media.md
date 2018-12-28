@@ -6,4 +6,4 @@ source: http://welfordmedia.co.uk/
 date: 2014-10-03 00:15:00 -0700
 ---
 
-<img src="/assets/img/screenshots/welford-media.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/welford-media.jpg">

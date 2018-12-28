@@ -6,4 +6,4 @@ source: http://www.kameleon.pics/
 date: 2015-1-8 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/kameleon.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/kameleon.jpg">

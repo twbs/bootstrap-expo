@@ -5,4 +5,4 @@ slug: womenandtech
 source: http://womenandtech.com/
 ---
 
-<img src="/assets/img/screenshots/womenandtech.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/womenandtech.jpg">

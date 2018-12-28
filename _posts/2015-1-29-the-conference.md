@@ -6,4 +6,4 @@ source: http://2015.theconference.se/
 date: 2015-1-29 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/the-conference.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/the-conference.jpg">

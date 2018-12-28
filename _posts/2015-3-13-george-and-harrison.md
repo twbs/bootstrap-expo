@@ -6,4 +6,4 @@ source: http://www.georgeandharrison.nl/
 date: 2015-3-13 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/george-and-harrison.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/george-and-harrison.jpg">

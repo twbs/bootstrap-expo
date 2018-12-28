@@ -6,4 +6,4 @@ source: http://dedaders.com/
 date: 2015-2-24 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/de-daders.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/de-daders.jpg">

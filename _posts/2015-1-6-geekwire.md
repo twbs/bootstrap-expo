@@ -6,4 +6,4 @@ source: http://www.geekwire.com/
 date: 2015-1-6 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/geekwire.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/geekwire.jpg">

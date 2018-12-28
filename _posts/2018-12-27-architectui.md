@@ -6,4 +6,4 @@ source: https://architectui.com/
 date: 2018-12-27 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/architectui.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/architectui.jpg">

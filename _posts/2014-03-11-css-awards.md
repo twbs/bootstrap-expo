@@ -5,4 +5,4 @@ slug: css-awards
 source: http://www.cssawards.net/
 ---
 
-<img src="/assets/img/screenshots/css-awards.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/css-awards.jpg">

@@ -5,4 +5,4 @@ slug: bittorrent-labs
 source: http://labs.bittorrent.com/
 ---
 
-<img src="/assets/img/screenshots/bittorrent-labs.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/bittorrent-labs.jpg">

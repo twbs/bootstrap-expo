@@ -6,4 +6,4 @@ source: https://www.instacart.com/
 date: 2014-12-9 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/instacart.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/instacart.jpg">

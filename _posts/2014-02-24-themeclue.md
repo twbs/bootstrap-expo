@@ -5,4 +5,4 @@ slug: themeclue
 source: http://www.themeclue.com/
 ---
 
-<img src="/assets/img/screenshots/themeclue.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/themeclue.jpg">

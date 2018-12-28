@@ -6,4 +6,4 @@ source: http://resto-elephant.com/
 date: 2014-11-20 00:00:00 -0700
 ---
 
-<img src="/assets/img/screenshots/elephant-restaurant.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/elephant-restaurant.jpg">

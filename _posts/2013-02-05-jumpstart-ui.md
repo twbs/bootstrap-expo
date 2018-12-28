@@ -5,4 +5,4 @@ slug: jumpstart-ui
 source: http://jumpstartui.com/
 ---
 
-<img src="/assets/img/screenshots/jumpstart-ui.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/jumpstart-ui.jpg">

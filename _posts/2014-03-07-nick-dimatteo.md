@@ -5,4 +5,4 @@ slug: nickdimatteo
 source: http://nickdimatteo.com/
 ---
 
-<img src="/assets/img/screenshots/nickdimatteo.jpg">
+<img src="{{ site.url }}/assets/img/screenshots/nickdimatteo.jpg">
