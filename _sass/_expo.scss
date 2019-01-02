@@ -191,39 +191,43 @@ h1, h2, h3 {
   margin-bottom: 0;
 }
 
-.entry-icon {
-  position: absolute;
-  content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' fill-rule='evenodd' clip-rule='evenodd' image-rendering='optimizeQuality' shape-rendering='geometricPrecision' text-rendering='geometricPrecision' viewBox='0 0 640 640'%3E%3Cpath fill='%23fff' d='M640.012 320L385.151 577.448V449.191C223.988 415.801 96.675 452.604-.011 575.193c16.784-252.109 189.002-373.776 385.162-381.831V62.553l254.861 257.448z'/%3E%3C/svg%3E");
-  display: block;
-  margin: 0 auto;
-  top: 50%;
-  left: 0;
-  right: 0;
-  color: #fff;
-  opacity: 0;
-  -webkit-transform: translateY(-50%);
-          transform: translateY(-50%);
-  transition: opacity .2s linear;
-  transition-delay: .05s;
-}
-
 .entry-thumb {
   position: relative;
   display: block;
   border-radius: 3px;
-}
-.entry-thumb img {
-  display: block;
-  width: 100%;
-  border: 1px solid #fff;
-  border-radius: 3px;
-  transition: opacity .2s linear;
-}
-.entry-thumb:hover img {
-  opacity: .65;
-}
-.entry-thumb:hover .entry-icon {
-  opacity: 1;
+
+  &::after {
+    position: absolute;
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='96' height='96' fill-rule='evenodd' clip-rule='evenodd' image-rendering='optimizeQuality' shape-rendering='geometricPrecision' text-rendering='geometricPrecision' viewBox='0 0 640 640'%3E%3Cpath fill='%23fff' d='M640.012 320L385.151 577.448V449.191C223.988 415.801 96.675 452.604-.011 575.193c16.784-252.109 189.002-373.776 385.162-381.831V62.553l254.861 257.448z'/%3E%3C/svg%3E");
+    display: block;
+    text-align: center;
+    top: 50%;
+    left: 0;
+    right: 0;
+    color: #fff;
+    opacity: 0;
+    -webkit-transform: translateY(-50%);
+    transform: translateY(-50%);
+    -webkit-transition: opacity .2s linear .05s;
+    transition: opacity .2s linear .05s;
+  }
+
+  &:hover::after {
+    opacity: 1;
+  }
+
+
+  img {
+    display: block;
+    width: 100%;
+    border: 1px solid #fff;
+    border-radius: 3px;
+    -webkit-transition: opacity .2s linear;
+    transition: opacity .2s linear;
+  }
+  &:hover img {
+    opacity: .65;
+  }
 }
 
 .entry-content {
