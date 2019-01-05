@@ -6,4 +6,4 @@ source: http://goranfactory.com/
 date: 2015-7-13 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/goran-factory.jpg">
+<img src="/assets/img/screenshots/goran-factory.jpg">

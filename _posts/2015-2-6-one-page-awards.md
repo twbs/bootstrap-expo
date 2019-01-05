@@ -6,4 +6,4 @@ source: http://www.onepageawards.com/
 date: 2015-2-6 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/one-page-awards.jpg">
+<img src="/assets/img/screenshots/one-page-awards.jpg">

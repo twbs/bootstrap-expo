@@ -6,4 +6,4 @@ source: http://booksandconversations.com/
 date: 2014-12-17 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/books-and-conversations.jpg">
+<img src="/assets/img/screenshots/books-and-conversations.jpg">

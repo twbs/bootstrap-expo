@@ -6,4 +6,4 @@ source: http://www.rollingstones.com/
 date: 2014-10-01 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/the-rolling-stones.jpg">
+<img src="/assets/img/screenshots/the-rolling-stones.jpg">

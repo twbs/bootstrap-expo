@@ -6,4 +6,4 @@ source: http://www.tsaateashop.com/
 date: 2015-3-19 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/tsaa-tea-shop.jpg">
+<img src="/assets/img/screenshots/tsaa-tea-shop.jpg">

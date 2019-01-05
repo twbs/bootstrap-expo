@@ -6,4 +6,4 @@ source: https://www.coursera.org/
 date: 2015-5-12 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/coursera.jpg">
+<img src="/assets/img/screenshots/coursera.jpg">

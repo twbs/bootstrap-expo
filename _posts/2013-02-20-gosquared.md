@@ -5,4 +5,4 @@ slug: gosquared
 source: https://gosquared.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/gosquared.jpg">
+<img src="/assets/img/screenshots/gosquared.jpg">

@@ -6,4 +6,4 @@ source: http://caviar.com/
 date: 2015-3-26 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/seattle-caviar-co.jpg">
+<img src="/assets/img/screenshots/seattle-caviar-co.jpg">

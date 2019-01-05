@@ -6,4 +6,4 @@ source: http://olafurarnalds.com/
 date: 2015-6-26 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/olafur-arnalds.jpg">
+<img src="/assets/img/screenshots/olafur-arnalds.jpg">

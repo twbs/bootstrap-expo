@@ -5,4 +5,4 @@ slug: delicious
 source: http://delicious.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/delicious.jpg">
+<img src="/assets/img/screenshots/delicious.jpg">

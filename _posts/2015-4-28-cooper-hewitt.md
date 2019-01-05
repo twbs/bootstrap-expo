@@ -6,4 +6,4 @@ source: http://www.cooperhewitt.org/
 date: 2015-4-28 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/cooper-hewitt.jpg">
+<img src="/assets/img/screenshots/cooper-hewitt.jpg">

@@ -6,4 +6,4 @@ source: http://www.placemeter.com/
 date: 2015-7-22 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/placemeter.jpg">
+<img src="/assets/img/screenshots/placemeter.jpg">

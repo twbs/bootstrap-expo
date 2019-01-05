@@ -6,4 +6,4 @@ source: http://spikenode.com/
 date: 2015-6-16 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/spike-node.jpg">
+<img src="/assets/img/screenshots/spike-node.jpg">

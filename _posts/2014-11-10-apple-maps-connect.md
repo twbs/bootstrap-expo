@@ -6,4 +6,4 @@ source: https://mapsconnect.apple.com/
 date: 2014-11-10 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/apple-maps-connect.jpg">
+<img src="/assets/img/screenshots/apple-maps-connect.jpg">

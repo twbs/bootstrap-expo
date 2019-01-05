@@ -6,4 +6,4 @@ source: http://woodsly.com/lookbooks/summer-2014
 date: 2014-11-18 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/woodsly-lookbook-summer-2014.jpg">
+<img src="/assets/img/screenshots/woodsly-lookbook-summer-2014.jpg">

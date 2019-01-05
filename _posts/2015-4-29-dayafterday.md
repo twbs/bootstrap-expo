@@ -6,4 +6,4 @@ source: https://dayafterday.co/
 date: 2015-4-29 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/dayafterday.jpg">
+<img src="/assets/img/screenshots/dayafterday.jpg">

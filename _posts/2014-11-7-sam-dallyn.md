@@ -6,4 +6,4 @@ source: http://www.samdallyn.co.uk/
 date: 2014-11-7 00:15:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/sam-dallyn.jpg">
+<img src="/assets/img/screenshots/sam-dallyn.jpg">

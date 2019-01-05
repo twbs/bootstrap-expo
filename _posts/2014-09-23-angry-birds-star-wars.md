@@ -5,4 +5,4 @@ slug: angry
 source: http://angrybirds.tumblr.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/angry.jpg">
+<img src="/assets/img/screenshots/angry.jpg">

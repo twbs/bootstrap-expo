@@ -5,4 +5,4 @@ slug: hipsta-food
 source: http://hipstafood.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/hipsta-food.jpg">
+<img src="/assets/img/screenshots/hipsta-food.jpg">

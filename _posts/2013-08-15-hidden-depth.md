@@ -5,4 +5,4 @@ slug: hidden-depth
 source: http://hiddendepth.ie/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/hidden-depth.jpg">
+<img src="/assets/img/screenshots/hidden-depth.jpg">

@@ -8,4 +8,4 @@ redirect_from:
   - /2014/10/22/marc=dahmen/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/marc-dahmen.jpg">
+<img src="/assets/img/screenshots/marc-dahmen.jpg">

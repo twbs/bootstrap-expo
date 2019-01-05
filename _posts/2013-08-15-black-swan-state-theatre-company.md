@@ -5,4 +5,4 @@ slug: black-swan-state-theatre-company
 source: http://bsstc.com.au/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/black-swan-state-theatre-company.jpg">
+<img src="/assets/img/screenshots/black-swan-state-theatre-company.jpg">

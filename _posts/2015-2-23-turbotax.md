@@ -6,4 +6,4 @@ source: https://turbotax.intuit.com/
 date: 2015-2-23 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/turbotax.jpg">
+<img src="/assets/img/screenshots/turbotax.jpg">

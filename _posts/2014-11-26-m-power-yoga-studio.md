@@ -6,4 +6,4 @@ source: http://mpoweryogastudio.com/
 date: 2014-11-26 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/m-power-yoga-studio.jpg">
+<img src="/assets/img/screenshots/m-power-yoga-studio.jpg">

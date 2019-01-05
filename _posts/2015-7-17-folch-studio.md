@@ -6,4 +6,4 @@ source: https://www.folchstudio.com/
 date: 2015-7-17 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/folch-studio.jpg">
+<img src="/assets/img/screenshots/folch-studio.jpg">

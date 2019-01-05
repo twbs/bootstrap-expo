@@ -5,4 +5,4 @@ slug: found-my-animal
 source: http://www.foundmyanimal.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/found-my-animal.jpg">
+<img src="/assets/img/screenshots/found-my-animal.jpg">

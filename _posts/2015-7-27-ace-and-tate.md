@@ -6,4 +6,4 @@ source: https://www.aceandtate.com/
 date: 2015-7-27 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/ace-and-tate.jpg">
+<img src="/assets/img/screenshots/ace-and-tate.jpg">

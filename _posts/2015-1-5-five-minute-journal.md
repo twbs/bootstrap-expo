@@ -6,4 +6,4 @@ source: http://app.fiveminutejournal.com/
 date: 2015-1-5 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/five-minute-journal.jpg">
+<img src="/assets/img/screenshots/five-minute-journal.jpg">

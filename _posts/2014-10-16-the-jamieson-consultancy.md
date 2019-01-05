@@ -6,4 +6,4 @@ source: http://www.tjcuk.co.uk/
 date: 2014-10-16 00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/the-jamieson-consultancy.jpg">
+<img src="/assets/img/screenshots/the-jamieson-consultancy.jpg">

@@ -6,4 +6,4 @@ source: http://www.vandreleal.net/
 date: 2014-12-29 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/vandre-leal.jpg">
+<img src="/assets/img/screenshots/vandre-leal.jpg">

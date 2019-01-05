@@ -6,4 +6,4 @@ source: http://www.repostage.com/
 date: 2015-3-31 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/repostage.jpg">
+<img src="/assets/img/screenshots/repostage.jpg">

@@ -6,4 +6,4 @@ source: http://visualsoldiers.com/
 date: 2015-7-1 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/visual-soldiers.jpg">
+<img src="/assets/img/screenshots/visual-soldiers.jpg">

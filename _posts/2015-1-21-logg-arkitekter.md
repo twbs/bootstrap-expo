@@ -6,4 +6,4 @@ source: http://www.logg.no/
 date: 2015-1-21 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/logg-arkitekter.jpg">
+<img src="/assets/img/screenshots/logg-arkitekter.jpg">

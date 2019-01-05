@@ -5,4 +5,4 @@ slug: surreal-cms
 source: http://www.surrealcms.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/surreal-cms.jpg">
+<img src="/assets/img/screenshots/surreal-cms.jpg">

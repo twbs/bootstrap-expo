@@ -6,4 +6,4 @@ source: https://stupid-studio.com/
 date: 2015-3-10 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/stupid-studio.jpg">
+<img src="/assets/img/screenshots/stupid-studio.jpg">

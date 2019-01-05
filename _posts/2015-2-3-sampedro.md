@@ -6,4 +6,4 @@ source: http://sampedro.dk/en/
 date: 2015-2-3 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/sampedro.jpg">
+<img src="/assets/img/screenshots/sampedro.jpg">

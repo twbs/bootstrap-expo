@@ -6,4 +6,4 @@ source: http://latitudesupplyco.com/
 date: 2015-3-16 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/latitude-supply-co.jpg">
+<img src="/assets/img/screenshots/latitude-supply-co.jpg">

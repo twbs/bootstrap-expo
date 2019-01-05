@@ -6,4 +6,4 @@ source: https://mms.mongodb.com/
 date: 2015-8-3 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/mongodb-management-service.jpg">
+<img src="/assets/img/screenshots/mongodb-management-service.jpg">

@@ -5,4 +5,4 @@ slug: alexander-kohlhofer
 source: http://kohlhofer.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/alexander-kohlhofer.jpg">
+<img src="/assets/img/screenshots/alexander-kohlhofer.jpg">

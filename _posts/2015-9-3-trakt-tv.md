@@ -6,4 +6,4 @@ source: https://trakt.tv/
 date: 2015-9-3 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/trakt-tv.jpg">
+<img src="/assets/img/screenshots/trakt-tv.jpg">

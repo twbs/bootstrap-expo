@@ -6,4 +6,4 @@ source: http://plan-international.org/hearourvoices/
 date: 2014-10-28 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/hear-our-voices.jpg">
+<img src="/assets/img/screenshots/hear-our-voices.jpg">

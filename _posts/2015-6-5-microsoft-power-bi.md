@@ -6,4 +6,4 @@ source: http://powerbi.microsoft.com/
 date: 2015-6-5 00:00:00 -0700
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/microsoft-power-bi.jpg">
+<img src="/assets/img/screenshots/microsoft-power-bi.jpg">

@@ -5,4 +5,4 @@ slug: fliplingo
 source: https://www.fliplingo.com/
 ---
 
-<img src="{{ site.url }}/assets/img/screenshots/fliplingo.jpg">
+<img src="/assets/img/screenshots/fliplingo.jpg">
