@@ -1,23 +1,13 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ site.description }}">
 <meta name="keywords" content="HTML, CSS, JS, JavaScript, framework, bootstrap, front-end, frontend, web development, showcase, expo">
 <meta name="author" content="Mark Otto">
-<meta name="generator" content="Jekyll v{{ jekyll.version }}">
-
-<title>
-  {%- if page.title == "Home" -%}
-    Bootstrap Expo
-  {%- else -%}
-    {{ page.title }} &middot; Bootstrap Expo
-  {%- endif -%}
-</title>
 
 <link href="/assets/css/bootstrap-expo.css" rel="stylesheet">
 
-{% feed_meta %}
-
-<link rel="canonical" href="{{ site.url }}{{ page.url }}">
-
 <link rel="icon" href="/favicon.ico">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+
+{% feed_meta %}
+
+{% seo %}

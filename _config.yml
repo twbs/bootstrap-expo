@@ -16,6 +16,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-redirect-from
+  - jekyll-seo-tag
   - jekyll-sitemap
 
 sass:
@@ -32,3 +33,23 @@ blog:               https://blog.getbootstrap.com
 
 redirect_from:
   json: false
+
+# Social
+author:
+  twitter:      "mdo"
+
+twitter:
+  card:         "summary_large_image"
+  username:     "getbootstrap"
+
+logo:           "/assets/img/bootstrap-social.png"
+
+# Output
+defaults:
+  - scope:
+      path:     ""
+    values:
+      image:
+        path:   "/assets/img/bootstrap-social.png" # default image
+        width:  1200
+        height: 630
