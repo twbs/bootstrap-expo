@@ -11,7 +11,7 @@
 
       <div class="entry">
         <a class="entry-thumb" href="{{ page.source }}" title="Visit {{ page.title }}">
-          {{ page.content }}
+          <img src="{{ page.image.path }}" alt="{{ page.title }} Screenshot" width="{{ page.image.width }}" height="{{ page.image.height }}">
         </a>
         <div class="entry-content">
           <h2 class="entry-title">
@@ -27,7 +27,7 @@
               <div class="col-sm-4">
                 <div class="entry">
                   <a class="entry-thumb" href="{{ post.url }}" title="Visit {{ post.title }}">
-                    {{ post.content }}
+                    <img src="{{ post.image.path }}" alt="{{ post.title }} Screenshot" width="{{ post.image.width }}" height="{{ post.image.height }}">
                   </a>
                   <div class="entry-content">
                     <h4 class="entry-title">
