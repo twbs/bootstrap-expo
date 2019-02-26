@@ -13,3 +13,7 @@
 - name: Bootstrap 3 for Drupal
   url: https://www.drupal.org/project/bootstrap
   desc: Defacto Drupal theme integration for Bootstrap.
+  
+- name: Bootstrap Pocket Guide
+  url: http://bootstrap4.guide/
+  desc: An awesome, tidy list of resources, tools and code examples for Bootstrap developers.
