@@ -65,3 +65,7 @@
 - name: Tophat Themes
   url: https://themesguide.github.io/top-hat/dist/
   desc: Stylish, open-source themes for Bootstrap.
+
+- name: Themes For App
+  url: https://themesfor.app/all-themes/
+  desc: Free Bootstrap themes and landing pages.
