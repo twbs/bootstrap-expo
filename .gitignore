@@ -3,3 +3,4 @@
 /_gh_pages/
 .DS_Store
 .ruby-version
+/src/.jekyll-cache/

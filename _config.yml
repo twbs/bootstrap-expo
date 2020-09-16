@@ -1,8 +1,15 @@
-# Dependencies
-highlighter:      false
+# Setup
+title:              "Bootstrap Expo"
+description:        "Beautiful and inspiring uses of Bootstrap"
+url:                "https://expo.getbootstrap.com"
+future:             false
+permalink:          pretty
+paginate:           10
 
-# Permalinks
-permalink:        pretty
+source:             src
+
+# Settings
+destination:        ./_gh_pages
 
 # Gems
 plugins:
@@ -12,27 +19,16 @@ plugins:
   - jekyll-sitemap
 
 sass:
-    style:        compressed
+    style:          compressed
 
-# Settings
-destination:      ./_gh_pages
-exclude:
-  - .netlify
-  - .sass-cache
-  - vendor/
-  - Gemfile
-  - Gemfile.lock
-  - README.md
-paginate:         10
-encoding:         UTF-8
-future:           false
-name:             Bootstrap Expo
-description:      Beautiful and inspiring uses of Bootstrap
-url:              https://expo.getbootstrap.com
+# Local Server
+host:               localhost # same as default value '127.0.0.1' but reads better
 
 # Links
-expo_repo:        https://github.com/twbs/bootstrap-expo/
-expo_new_issue:   https://github.com/twbs/bootstrap-expo/issues/new
+#expo_repo:          https://github.com/twbs/bootstrap-expo
+expo_new_issue:     https://github.com/twbs/bootstrap-expo/issues/new
+docs:               https://getbootstrap.com
+blog:               https://blog.getbootstrap.com
 
-docs:             https://getbootstrap.com
-blog:             https://blog.getbootstrap.com
+redirect_from:
+  json: false
