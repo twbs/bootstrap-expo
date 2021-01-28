@@ -55,7 +55,7 @@ redirect_from:
 {% for post in paginator.posts %}
   <div class="entry">
     <a class="entry-thumb" href="{{ post.source }}" title="Visit {{ post.title }}" rel="noopener" target="_blank">
-      {{ post.content }}
+      {% include entry-image.html %}
     </a>
     <div class="entry-content">
       <h2 class="entry-title">

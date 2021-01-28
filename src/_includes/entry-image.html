@@ -1,0 +1,4 @@
+{% assign slug = post.slug | default: page.slug | slugify -%}
+{%- assign default_post_image = "/assets/img/screenshots/" | append: slug | append: ".jpg" -%}
+{%- assign post_image = post.image | default: page.image | default: default_post_image -%}
+<img src="{{ post_image | absolute_url }}" alt="">

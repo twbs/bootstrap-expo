@@ -20,7 +20,7 @@
 
       <div class="entry">
         <a class="entry-thumb" href="{{ page.source }}" title="Visit {{ page.title }}">
-          {{ page.content }}
+          {% include entry-image.html %}
         </a>
         <div class="entry-content">
           <h2 class="entry-title">
@@ -32,11 +32,14 @@
         <div class="related">
           <h3 class="related-title">More from the Expo</h3>
           <div class="row">
-            {% for post in site.related_posts limit:3 %}
+            {% for post in site.related_posts limit: 3 %}
               <div class="col-sm-4">
                 <div class="entry">
-                  <a class="entry-thumb" href="{{ post.url }}" title="Visit {{ post.title }}">
-                    {{ post.content }}
+                  <a class="entry-thumb" href="{{ post.url }}" title="View {{ post.title }} entry">
+                    {% assign slug = post.title | slugify -%}
+                    {%- assign default_post_image = "/assets/img/screenshots/" | append: slug | append: ".jpg" -%}
+                    {%- assign post_image = post.image | default: default_post_image -%}
+                    <img src="{{ post_image | absolute_url }}" alt="" loading="lazy">
                   </a>
                   <div class="entry-content">
                     <h4 class="entry-title">
