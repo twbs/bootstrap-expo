@@ -19,15 +19,7 @@
     <div class="listing">
 
       <div class="entry">
-        <a class="entry-thumb" href="{{ page.source }}" title="Visit {{ page.title }}">
-          {% include entry-image.html %}
-        </a>
-        <div class="entry-content">
-          <h2 class="entry-title">
-            <a href="{{ page.url }}">{{ page.title }}</a>
-          </h2>
-          <p class="entry-date">{{ page.date | date: "%B %-d %Y" }}</p>
-        </div>
+        {% include entry.html context=page %}
 
         <div class="related">
           <h3 class="related-title">More from the Expo</h3>

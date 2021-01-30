@@ -1,0 +1,17 @@
+{% comment -%}
+  Accepts one param, "context" which can be `post` or `page`
+{%- endcomment-%}
+
+{% assign slug = include.context.slug | slugify -%}
+{%- assign default_post_image = "/assets/img/screenshots/" | append: slug | append: ".jpg" -%}
+{%- assign post_image = include.context.image | default: default_post_image -%}
+
+<a class="entry-thumb" href="{{ include.context.source }}" title="Visit {{ include.context.title }}" rel="noopener" target="_blank">
+  <img src="{{ post_image | absolute_url }}" alt="">
+</a>
+<div class="entry-content">
+  <h2 class="entry-title">
+    <a href="{{ include.context.url }}">{{ include.context.title }}</a>
+  </h2>
+  <p class="entry-date">{{ include.context.date | date: "%B %-d, %Y" }}</p>
+</div>
