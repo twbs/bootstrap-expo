@@ -57,3 +57,7 @@
 - name: Themestr.app
   url: https://themestr.app/
   desc: Bootstrap theme builder and customizer.
+  
+- name: Bootdey.com
+  url: https://www.bootdey.com
+  desc: Code snippets, examples, design elements, playground and components for bootstrap framework
