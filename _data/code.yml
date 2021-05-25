@@ -1,6 +1,10 @@
 - name: CodeCanyon
   url: https://codecanyon.net/
   desc: Bootstrap plugins and skins from CodeCanyon, the largest script and code marketplace on the web.
+  
+- name: Webpixels
+  url: https://webpixels.io/components
+  desc: Explore, copy, use and mix hundreds of carefully crafted Bootstrap components and pages.
 
 - name: React-Bootstrap
   url: https://react-bootstrap.github.io/
