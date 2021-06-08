@@ -57,3 +57,7 @@
 - name: Themestr.app
   url: https://themestr.app/
   desc: Bootstrap theme builder and customizer.
+  
+ - name: Bootstrap Cheatsheet
+  url: https://bootstrap-cheatsheet.themeselection.com/
+  desc: An interactive list of Bootstrap 5 classes, variables, and mixins. 🎁 The only Bootstrap 5 CheatSheet you will ever need. 🎊
