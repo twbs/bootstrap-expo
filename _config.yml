@@ -9,7 +9,7 @@ paginate:           10
 source:             src
 
 # Settings
-destination:        ./_gh_pages
+destination:        ./_site
 
 # Gems
 plugins:

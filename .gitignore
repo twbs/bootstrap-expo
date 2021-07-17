@@ -1,6 +1,6 @@
 /.netlify/
 /.sass-cache/
-/_gh_pages/
+/_site/
 .DS_Store
 .ruby-version
 /src/.jekyll-cache/

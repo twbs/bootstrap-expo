@@ -29,14 +29,14 @@ jobs:
       - run: bundle exec jekyll doctor
 
       - name: Run html-proofer
-        run: bundle exec htmlproofer ./_gh_pages --allow-hash-href --assume-extension --check-external-hash --check-favicon --check-img-http --check-opengraph --disable-external --empty-alt-ignore --internal-domains "expo.getbootstrap.com"
+        run: bundle exec htmlproofer ./_site --allow-hash-href --assume-extension --check-external-hash --check-favicon --check-img-http --check-opengraph --disable-external --empty-alt-ignore --internal-domains "expo.getbootstrap.com"
 
       - name: Upload docs
         uses: actions/upload-artifact@v2
         if: success() && github.repository == 'twbs/bootstrap-expo' && github.ref == 'refs/heads/main'
         with:
           name: docs
-          path: ./_gh_pages/
+          path: ./_site/
 
   deploy:
     runs-on: ubuntu-latest
@@ -51,7 +51,7 @@ jobs:
         uses: actions/download-artifact@v2
         with:
           name: docs
-          path: ./_gh_pages/
+          path: ./_site/
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
@@ -60,4 +60,4 @@ jobs:
           allow_empty_commit: false
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
-          publish_dir: ./_gh_pages/
+          publish_dir: ./_site/
