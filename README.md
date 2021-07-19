@@ -8,7 +8,7 @@ Browse the entries at <https://expo.getbootstrap.com/>!
 
 We do not accept all submissions. We only select high quality, beautiful, and comprehensive examples of building with Bootstrap. Sites appearing too similar to Bootstrap's documentation or default styles generally will not be accepted. Submissions with inappropriate content will also not be accepted.
 
-To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/new) or [a pull request](https://github.com/twbs/bootstrap-expo/pulls/new). (Any new pull request should conform to the [Code Guide](http://github.com/mdo/code-guide)).
+To submit a site, [open an issue](https://github.com/twbs/bootstrap-expo/issues/new) or [a pull request](https://github.com/twbs/bootstrap-expo/pulls/new). (Any new pull request should conform to the [Code Guide](https://github.com/mdo/code-guide)).
 
 ## Maintainers
 
