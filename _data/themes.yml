@@ -2,6 +2,10 @@
   url: https://themeforest.net/tags/bootstrap
   desc: Bootstrap templates from ThemeForest, a marketplace for premium themes and templates.
 
+- name: Webpixels
+  url: https://webpixels.io/themes
+  desc: Beautifully designed Bootstrap templates and themes.
+
 - name: Sage
   url: https://roots.io/sage/
   desc: WordPress starter theme that uses gulp, Bower, and Bootstrap.
