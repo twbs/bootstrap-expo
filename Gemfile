@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 group :development, :test do
-  gem 'html-proofer', '~> 3.19.2'
+  gem 'html-proofer', '~> 3.19.3'
   gem 'jekyll', '~> 4.2.1'
   gem 'jekyll-feed', '~> 0.15.0'
   gem 'jekyll-paginate', '~> 1.1.0'
