@@ -1,0 +1,12 @@
+version: 2
+updates:
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: monthly
+      day: wednesday
+      time: "12:00"
+      timezone: Europe/Athens
+    labels:
+      - dependencies
+      - github_actions
