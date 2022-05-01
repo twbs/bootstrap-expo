@@ -32,7 +32,7 @@ jobs:
         run: bundle exec htmlproofer ./_site --allow-hash-href --assume-extension --check-external-hash --check-favicon --check-img-http --check-opengraph --disable-external --empty-alt-ignore --internal-domains "expo.getbootstrap.com"
 
       - name: Upload docs
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v3
         if: success() && github.repository == 'twbs/bootstrap-expo' && github.ref == 'refs/heads/main'
         with:
           name: docs
