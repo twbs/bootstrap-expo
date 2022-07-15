@@ -3,9 +3,9 @@
 	"file": "bootstrap-expo.css",
 	"sources": [
 		"bootstrap-expo.scss",
-		"src/_sass/_bootstrap.scss",
-		"src/_sass/_ads.scss",
-		"src/_sass/_expo.scss"
+		"_sass/_bootstrap.scss",
+		"_sass/_ads.scss",
+		"_sass/_expo.scss"
 	],
 	"sourcesContent": [
 		"@import \"bootstrap\";\n@import \"ads\";\n@import \"expo\";\n",
