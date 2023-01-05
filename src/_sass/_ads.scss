@@ -5,69 +5,94 @@
  * The hella `!important` is required for any pre-set property.
  */
 
-.carbonad {
-  width: auto !important;
-  margin: 1.5rem 0 !important;
-  padding: 0 !important;
-  overflow: hidden; /* clearfix */
-  height: auto !important;
-  font-size: .6rem !important;
-  line-height: 1.4 !important;
-  text-align: left;
-  background: transparent !important;
-  border: 0 !important;
-  color: #8a8a8a !important;
-}
-.carbonad-img {
-  display: block !important;
-  margin: 0 !important;
-}
-.carbonad-text,
-.carbonad-tag {
-  float: none !important;
-  display: block !important;
-  margin-left: 145px !important;
-  width: auto !important;
-  height: auto !important;
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-}
-.carbonad-text {
-  padding-top: 0 !important;
-}
-.carbonad-tag {
-  color: inherit !important;
-  text-align: left !important;
-}
-.carbonad-text a,
-.carbonad-tag a {
-  font-weight: normal !important;
-  color: #6a6a6a !important;
-}
-.carbonad-text a:hover,
-.carbonad-tag a:hover {
-  color: #3a3a3a !important;
-}
-.carbonad #azcarbon > img {
-  display: none; /* hide what I assume are tracking images */
+#carbonads {
+  display: -ms-flexbox;
+  display: flex;
+  max-width: 130px;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 12px;
+  border-radius: 4px;
+  box-shadow: 0 0 1px hsla(0, 0%, 0%, .15);
+
+  * {
+    padding: initial;
+    margin: initial;
+  }
+
+  a {
+    color: #111;
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #111;
+  }
+
+  .carbon-img {
+    display: block;
+    max-width: 130px;
+    line-height: 1;
+  }
+
+  .carbon-img img {
+    display: block;
+    width: 130px;
+    height: 100px;
+    margin: 0 auto;
+  }
+
+  .carbon-text {
+    display: block;
+    padding: 8px 10px;
+    line-height: 1.35;
+    text-align: left;
+    background-color: hsl(0, 0%, 98%);
+  }
+
+  .carbon-poweredby {
+    display: block;
+    padding: 10px;
+    font-size: 8px;
+    font-weight: 600;
+    line-height: 0;
+    text-transform: uppercase;
+    letter-spacing: .5px;
+    background: repeating-linear-gradient(-45deg, transparent, transparent 5px, hsla(0, 0%, 0%, .025) 5px, hsla(0, 0%, 0%, .025) 10px) hsla(203, 11%, 95%, .4);
+    background-color: hsl(0, 0%, 98%);
+  }
 }
 
-@media (min-width: 480px) {
-  .carbonad {
-    max-width: 300px !important;
-  }
-}
+@media only screen and (min-width: 320px) and (max-width: 759px) {
+  #carbonads {
+    position: relative;
+    float: none;
+    max-width: 330px;
+    margin: 20px 0;
 
-@media (min-width: 768px) {
-  .carbonad {
-    max-width: 130px !important;
-    margin-top: 0 !important;
-  }
-  .carbonad-img {
-    float: none !important;
-    margin: 0 0 .75rem !important;
-  }
-  .carbonad-text,
-  .carbonad-tag {
-    margin-left: 0 !important;
+    .carbon-wrap {
+      display: -ms-flexbox;
+      display: flex;
+      -ms-flex-direction: row;
+      flex-direction: row;
+    }
+
+    .carbon-img {
+      margin: 0;
+    }
+
+    .carbon-text {
+      padding: 10px 10px 0;
+      font-size: 12px;
+    }
+
+    .carbon-poweredby {
+      position: absolute;
+      right: 0;
+      bottom: 0;
+      text-align: center;
+      border-radius: 0;
+      border-top-left-radius: 3px;
+    }
   }
 }
